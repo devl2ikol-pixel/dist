@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_18">
+		<group>
+			<npc id="32478" x="13436" y="17248" z="-4568" heading="46596" respawnTime="60sec" /> <!-- Dimensional Merchant -->
+			<npc id="30134" x="9734" y="15511" z="-4552" heading="5826" respawnTime="60sec" /> <!-- Jasmine -->
+			<npc id="50000" x="12102" y="16646" z="-4587" heading="63125" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="50000" x="9805" y="15492" z="-4578" heading="11422" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="1002001" x="12123" y="16726" z="-4587" heading="64590" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+			<npc id="1002001" x="9857" y="15478" z="-4577" heading="11901" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600003: S-grade Jewelry. Auto-generated from item data (price as Adena cost). -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="3700000" /> <!-- Adena -->
+		<production id="6656" count="1" /> <!-- Antharas' Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1730000" /> <!-- Adena -->
+		<production id="6658" count="1" /> <!-- Baium's Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="2400000" /> <!-- Adena -->
+		<production id="10314" count="1" /> <!-- Beleth's Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="650000" /> <!-- Adena -->
+		<production id="12290" count="1" /> <!-- Common Item - Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="265900" /> <!-- Adena -->
+		<production id="12358" count="1" /> <!-- Common Item - Sealed Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="354600" /> <!-- Adena -->
+		<production id="12356" count="1" /> <!-- Common Item - Sealed Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="177300" /> <!-- Adena -->
+		<production id="12357" count="1" /> <!-- Common Item - Sealed Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="265900" /> <!-- Adena -->
+		<production id="12361" count="1" /> <!-- Common Item - Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="354600" /> <!-- Adena -->
+		<production id="12359" count="1" /> <!-- Common Item - Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="177300" /> <!-- Adena -->
+		<production id="12360" count="1" /> <!-- Common Item - Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1310000" /> <!-- Adena -->
+		<production id="685" count="1" /> <!-- Crystal Swimsuit Set -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9455" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9458" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9461" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9464" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9467" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9470" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9473" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9476" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="11601" count="1" /> <!-- Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5956000" /> <!-- Adena -->
+		<production id="9479" count="1" /> <!-- Dynasty Earring (Not in Use) -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9456" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9459" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9462" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9465" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9468" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9471" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9474" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9477" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="11599" count="1" /> <!-- Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="7942000" /> <!-- Adena -->
+		<production id="9480" count="1" /> <!-- Dynasty Necklace (Not in Use) -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9457" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9460" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9463" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9466" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9469" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9472" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9475" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9478" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="11600" count="1" /> <!-- Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3971000" /> <!-- Adena -->
+		<production id="9481" count="1" /> <!-- Dynasty Ring (Not in Use) -->
+	</item>
+	<item>
+		<ingredient id="57" count="2540000" /> <!-- Adena -->
+		<production id="10208" count="1" /> <!-- Enhanced Striped Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1800000" /> <!-- Adena -->
+		<production id="9582" count="1" /> <!-- Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1800000" /> <!-- Adena -->
+		<production id="10500" count="1" /> <!-- Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1800000" /> <!-- Adena -->
+		<production id="10501" count="1" /> <!-- Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1800000" /> <!-- Adena -->
+		<production id="10502" count="1" /> <!-- Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1730000" /> <!-- Adena -->
+		<production id="22173" count="1" /> <!-- Reinforced Baium's Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="4032000" /> <!-- Adena -->
+		<production id="9452" count="1" /> <!-- Sealed Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="4032000" /> <!-- Adena -->
+		<production id="11604" count="1" /> <!-- Sealed Dynasty Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="5376000" /> <!-- Adena -->
+		<production id="9453" count="1" /> <!-- Sealed Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="5376000" /> <!-- Adena -->
+		<production id="11602" count="1" /> <!-- Sealed Dynasty Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="2688000" /> <!-- Adena -->
+		<production id="9454" count="1" /> <!-- Sealed Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="2688000" /> <!-- Adena -->
+		<production id="11603" count="1" /> <!-- Sealed Dynasty Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3270000" /> <!-- Adena -->
+		<production id="6724" count="1" /> <!-- Sealed Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3270000" /> <!-- Adena -->
+		<production id="11595" count="1" /> <!-- Sealed Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="4361000" /> <!-- Adena -->
+		<production id="6726" count="1" /> <!-- Sealed Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="4361000" /> <!-- Adena -->
+		<production id="11593" count="1" /> <!-- Sealed Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="2180000" /> <!-- Adena -->
+		<production id="6725" count="1" /> <!-- Sealed Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="2180000" /> <!-- Adena -->
+		<production id="11594" count="1" /> <!-- Sealed Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="2540000" /> <!-- Adena -->
+		<production id="9588" count="1" /> <!-- Striped Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="2540000" /> <!-- Adena -->
+		<production id="10512" count="1" /> <!-- Striped Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="2540000" /> <!-- Adena -->
+		<production id="10513" count="1" /> <!-- Striped Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="2540000" /> <!-- Adena -->
+		<production id="10514" count="1" /> <!-- Striped Mithril Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="3270000" /> <!-- Adena -->
+		<production id="858" count="1" /> <!-- Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="3270000" /> <!-- Adena -->
+		<production id="11598" count="1" /> <!-- Tateossian Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="4361000" /> <!-- Adena -->
+		<production id="920" count="1" /> <!-- Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="4361000" /> <!-- Adena -->
+		<production id="11596" count="1" /> <!-- Tateossian Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="2180000" /> <!-- Adena -->
+		<production id="889" count="1" /> <!-- Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="2180000" /> <!-- Adena -->
+		<production id="11597" count="1" /> <!-- Tateossian Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="4940000" /> <!-- Adena -->
+		<production id="6657" count="1" /> <!-- Valakas' Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="2590000" /> <!-- Adena -->
+		<production id="6659" count="1" /> <!-- Zaken's Earring -->
+	</item>
+</list>

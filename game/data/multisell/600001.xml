@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600001: S-grade Armor. Auto-generated from item data (price as Adena cost). -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="12811" count="1" /> <!-- Arcana Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="13078" count="1" /> <!-- Arcana Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="1267000" /> <!-- Adena -->
+		<production id="12284" count="1" /> <!-- Common Item - Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12283" count="1" /> <!-- Common Item - Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12282" count="1" /> <!-- Common Item - Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12285" count="1" /> <!-- Common Item - Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12307" count="1" /> <!-- Common Item - Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="1039000" /> <!-- Adena -->
+		<production id="12310" count="1" /> <!-- Common Item - Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="650000" /> <!-- Adena -->
+		<production id="12305" count="1" /> <!-- Common Item - Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12306" count="1" /> <!-- Common Item - Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12309" count="1" /> <!-- Common Item - Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="272800" /> <!-- Adena -->
+		<production id="12308" count="1" /> <!-- Common Item - Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12288" count="1" /> <!-- Common Item - Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12289" count="1" /> <!-- Common Item - Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12286" count="1" /> <!-- Common Item - Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="1267000" /> <!-- Adena -->
+		<production id="12287" count="1" /> <!-- Common Item - Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="1267000" /> <!-- Adena -->
+		<production id="12293" count="1" /> <!-- Common Item - Sealed Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12292" count="1" /> <!-- Common Item - Sealed Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12291" count="1" /> <!-- Common Item - Sealed Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12294" count="1" /> <!-- Common Item - Sealed Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12301" count="1" /> <!-- Common Item - Sealed Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="1039000" /> <!-- Adena -->
+		<production id="12304" count="1" /> <!-- Common Item - Sealed Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="650000" /> <!-- Adena -->
+		<production id="12299" count="1" /> <!-- Common Item - Sealed Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12300" count="1" /> <!-- Common Item - Sealed Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12303" count="1" /> <!-- Common Item - Sealed Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="272800" /> <!-- Adena -->
+		<production id="12302" count="1" /> <!-- Common Item - Sealed Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12297" count="1" /> <!-- Common Item - Sealed Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="389700" /> <!-- Adena -->
+		<production id="12298" count="1" /> <!-- Common Item - Sealed Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="259800" /> <!-- Adena -->
+		<production id="12295" count="1" /> <!-- Common Item - Sealed Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="1267000" /> <!-- Adena -->
+		<production id="12296" count="1" /> <!-- Common Item - Sealed Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="6379" count="1" /> <!-- Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="11485" count="1" /> <!-- Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6381" count="1" /> <!-- Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11484" count="1" /> <!-- Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6380" count="1" /> <!-- Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11483" count="1" /> <!-- Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6382" count="1" /> <!-- Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11486" count="1" /> <!-- Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="2073000" /> <!-- Adena -->
+		<production id="2476" count="1" /> <!-- Dragon Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="2784000" /> <!-- Adena -->
+		<production id="2420" count="1" /> <!-- Dragon Headgear -->
+	</item>
+	<item>
+		<ingredient id="57" count="1856000" /> <!-- Adena -->
+		<production id="2443" count="1" /> <!-- Dragon Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="1856000" /> <!-- Adena -->
+		<production id="2477" count="1" /> <!-- Dragon Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="1949000" /> <!-- Adena -->
+		<production id="634" count="1" /> <!-- Dragon Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9424" count="1" /> <!-- Dynasty Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11526" count="1" /> <!-- Dynasty Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9416" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9417" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9418" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9419" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9420" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11527" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11528" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11529" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11530" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11531" count="1" /> <!-- Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9438" count="1" /> <!-- Dynasty Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11539" count="1" /> <!-- Dynasty Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="15248000" /> <!-- Adena -->
+		<production id="9421" count="1" /> <!-- Dynasty Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="15248000" /> <!-- Adena -->
+		<production id="11512" count="1" /> <!-- Dynasty Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9423" count="1" /> <!-- Dynasty Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11513" count="1" /> <!-- Dynasty Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9439" count="1" /> <!-- Dynasty Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11514" count="1" /> <!-- Dynasty Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9422" count="1" /> <!-- Dynasty Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11557" count="1" /> <!-- Dynasty Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10232" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10233" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10234" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10487" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10488" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10489" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10490" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11540" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11541" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11542" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11543" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11544" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11545" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11546" count="1" /> <!-- Dynasty Jewel Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9425" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9426" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9427" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="10126" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="10127" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="10168" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="10214" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11517" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11518" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11519" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11520" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11521" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11522" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11523" count="1" /> <!-- Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9431" count="1" /> <!-- Dynasty Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11524" count="1" /> <!-- Dynasty Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9430" count="1" /> <!-- Dynasty Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11515" count="1" /> <!-- Dynasty Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9429" count="1" /> <!-- Dynasty Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11525" count="1" /> <!-- Dynasty Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="9428" count="1" /> <!-- Dynasty Leather Leggings -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="11516" count="1" /> <!-- Dynasty Leather Leggings -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="10227" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="10228" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="10229" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="10230" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="10231" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="11552" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="11553" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="11554" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="11555" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="33673000" /> <!-- Adena -->
+		<production id="11556" count="1" /> <!-- Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="9441" count="1" /> <!-- Dynasty Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="11532" count="1" /> <!-- Dynasty Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9440" count="1" /> <!-- Dynasty Shoes -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11533" count="1" /> <!-- Dynasty Shoes -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="10119" count="1" /> <!-- Dynasty Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="12812" count="1" /> <!-- Dynasty Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10235" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10236" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10237" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10238" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="10239" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11534" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11535" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11536" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11537" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="25255000" /> <!-- Adena -->
+		<production id="11538" count="1" /> <!-- Dynasty Silver Satin Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="9437" count="1" /> <!-- Dynasty Stockings -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="11558" count="1" /> <!-- Dynasty Stockings -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9432" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9433" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9434" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9435" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9436" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11547" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11548" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11549" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11550" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11551" count="1" /> <!-- Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="778850" /> <!-- Adena -->
+		<production id="32530" count="1" /> <!-- Fantasy Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32537" count="1" /> <!-- Fantasy Dynasty Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="1219900" /> <!-- Adena -->
+		<production id="32525" count="1" /> <!-- Fantasy Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="457450" /> <!-- Adena -->
+		<production id="32538" count="1" /> <!-- Fantasy Dynasty Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="762400" /> <!-- Adena -->
+		<production id="32527" count="1" /> <!-- Fantasy Dynasty Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32534" count="1" /> <!-- Fantasy Dynasty Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32532" count="1" /> <!-- Fantasy Dynasty Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="457450" /> <!-- Adena -->
+		<production id="32540" count="1" /> <!-- Fantasy Dynasty Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="914900" /> <!-- Adena -->
+		<production id="32528" count="1" /> <!-- Fantasy Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32536" count="1" /> <!-- Fantasy Dynasty Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32533" count="1" /> <!-- Fantasy Dynasty Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="457450" /> <!-- Adena -->
+		<production id="32539" count="1" /> <!-- Fantasy Dynasty Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="571800" /> <!-- Adena -->
+		<production id="32529" count="1" /> <!-- Fantasy Dynasty Leather Leggings -->
+	</item>
+	<item>
+		<ingredient id="57" count="1683650" /> <!-- Adena -->
+		<production id="32526" count="1" /> <!-- Fantasy Dynasty Platinum Plate -->
+	</item>
+	<item>
+		<ingredient id="57" count="320200" /> <!-- Adena -->
+		<production id="32541" count="1" /> <!-- Fantasy Dynasty Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="304950" /> <!-- Adena -->
+		<production id="32535" count="1" /> <!-- Fantasy Dynasty Shoes -->
+	</item>
+	<item>
+		<ingredient id="57" count="320200" /> <!-- Adena -->
+		<production id="32542" count="1" /> <!-- Fantasy Dynasty Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="778850" /> <!-- Adena -->
+		<production id="32531" count="1" /> <!-- Fantasy Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6376" count="1" /> <!-- Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11507" count="1" /> <!-- Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="12781000" /> <!-- Adena -->
+		<production id="6373" count="1" /> <!-- Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="12781000" /> <!-- Adena -->
+		<production id="11510" count="1" /> <!-- Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="7988000" /> <!-- Adena -->
+		<production id="6374" count="1" /> <!-- Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="7988000" /> <!-- Adena -->
+		<production id="11505" count="1" /> <!-- Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6375" count="1" /> <!-- Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11506" count="1" /> <!-- Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6378" count="1" /> <!-- Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11509" count="1" /> <!-- Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="6377" count="1" /> <!-- Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="11508" count="1" /> <!-- Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6385" count="1" /> <!-- Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11489" count="1" /> <!-- Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6386" count="1" /> <!-- Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11490" count="1" /> <!-- Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6384" count="1" /> <!-- Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11487" count="1" /> <!-- Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="6383" count="1" /> <!-- Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="11488" count="1" /> <!-- Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="10121" count="1" /> <!-- Sealed Arcana Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="13885" count="1" /> <!-- Sealed Arcana Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="6680" count="1" /> <!-- Sealed Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="11493" count="1" /> <!-- Sealed Draconic Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6682" count="1" /> <!-- Sealed Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11492" count="1" /> <!-- Sealed Draconic Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6681" count="1" /> <!-- Sealed Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11491" count="1" /> <!-- Sealed Draconic Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6683" count="1" /> <!-- Sealed Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11494" count="1" /> <!-- Sealed Draconic Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9518" count="1" /> <!-- Sealed Dynasty Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11567" count="1" /> <!-- Sealed Dynasty Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="9514" count="1" /> <!-- Sealed Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="24398000" /> <!-- Adena -->
+		<production id="11568" count="1" /> <!-- Sealed Dynasty Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9526" count="1" /> <!-- Sealed Dynasty Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11571" count="1" /> <!-- Sealed Dynasty Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="15248000" /> <!-- Adena -->
+		<production id="9515" count="1" /> <!-- Sealed Dynasty Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="15248000" /> <!-- Adena -->
+		<production id="11559" count="1" /> <!-- Sealed Dynasty Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9517" count="1" /> <!-- Sealed Dynasty Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11560" count="1" /> <!-- Sealed Dynasty Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9527" count="1" /> <!-- Sealed Dynasty Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11561" count="1" /> <!-- Sealed Dynasty Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9516" count="1" /> <!-- Sealed Dynasty Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11573" count="1" /> <!-- Sealed Dynasty Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9519" count="1" /> <!-- Sealed Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11564" count="1" /> <!-- Sealed Dynasty Leather Armor -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9523" count="1" /> <!-- Sealed Dynasty Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11565" count="1" /> <!-- Sealed Dynasty Leather Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9522" count="1" /> <!-- Sealed Dynasty Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11562" count="1" /> <!-- Sealed Dynasty Leather Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="9521" count="1" /> <!-- Sealed Dynasty Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="9149000" /> <!-- Adena -->
+		<production id="11566" count="1" /> <!-- Sealed Dynasty Leather Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="9520" count="1" /> <!-- Sealed Dynasty Leather Leggings -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="11563" count="1" /> <!-- Sealed Dynasty Leather Leggings -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="9529" count="1" /> <!-- Sealed Dynasty Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="11569" count="1" /> <!-- Sealed Dynasty Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="9528" count="1" /> <!-- Sealed Dynasty Shoes -->
+	</item>
+	<item>
+		<ingredient id="57" count="6099000" /> <!-- Adena -->
+		<production id="11570" count="1" /> <!-- Sealed Dynasty Shoes -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="10120" count="1" /> <!-- Sealed Dynasty Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="6404000" /> <!-- Adena -->
+		<production id="13886" count="1" /> <!-- Sealed Dynasty Sigil -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="9525" count="1" /> <!-- Sealed Dynasty Stockings -->
+	</item>
+	<item>
+		<ingredient id="57" count="11436000" /> <!-- Adena -->
+		<production id="11574" count="1" /> <!-- Sealed Dynasty Stockings -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="9524" count="1" /> <!-- Sealed Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="18298000" /> <!-- Adena -->
+		<production id="11572" count="1" /> <!-- Sealed Dynasty Tunic -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6677" count="1" /> <!-- Sealed Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11501" count="1" /> <!-- Sealed Imperial Crusader Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="12781000" /> <!-- Adena -->
+		<production id="6674" count="1" /> <!-- Sealed Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="12781000" /> <!-- Adena -->
+		<production id="11504" count="1" /> <!-- Sealed Imperial Crusader Breastplate -->
+	</item>
+	<item>
+		<ingredient id="57" count="7988000" /> <!-- Adena -->
+		<production id="6675" count="1" /> <!-- Sealed Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="7988000" /> <!-- Adena -->
+		<production id="11499" count="1" /> <!-- Sealed Imperial Crusader Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6676" count="1" /> <!-- Sealed Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11500" count="1" /> <!-- Sealed Imperial Crusader Gauntlets -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6679" count="1" /> <!-- Sealed Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11503" count="1" /> <!-- Sealed Imperial Crusader Helmet -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="6678" count="1" /> <!-- Sealed Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="3355000" /> <!-- Adena -->
+		<production id="11502" count="1" /> <!-- Sealed Imperial Crusader Shield -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6686" count="1" /> <!-- Sealed Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11497" count="1" /> <!-- Sealed Major Arcana Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="6687" count="1" /> <!-- Sealed Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="4793000" /> <!-- Adena -->
+		<production id="11498" count="1" /> <!-- Sealed Major Arcana Circlet -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="6685" count="1" /> <!-- Sealed Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="3195000" /> <!-- Adena -->
+		<production id="11495" count="1" /> <!-- Sealed Major Arcana Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="6684" count="1" /> <!-- Sealed Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="15577000" /> <!-- Adena -->
+		<production id="11496" count="1" /> <!-- Sealed Major Arcana Robe -->
+	</item>
+	<item>
+		<ingredient id="57" count="1856000" /> <!-- Adena -->
+		<production id="2444" count="1" /> <!-- The Boots -->
+	</item>
+	<item>
+		<ingredient id="57" count="1856000" /> <!-- Adena -->
+		<production id="2473" count="1" /> <!-- The Gloves -->
+	</item>
+	<item>
+		<ingredient id="57" count="2784000" /> <!-- Adena -->
+		<production id="2421" count="1" /> <!-- The Hood -->
+	</item>
+</list>

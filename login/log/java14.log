@@ -1,0 +1,21 @@
+2026.02.25 06:43:11,000	INFO	3	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2026.02.25 06:43:11,058	INFO	3	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2026.02.25 06:43:11,059	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2026.02.25 06:43:11,059	INFO	3	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2026.02.25 06:43:11,061	INFO	3	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2026.02.25 06:43:11,422	INFO	3	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2026.02.25 06:43:11,442	INFO	3	org.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication.
+2026.02.25 06:43:11,526	INFO	3	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2026.02.25 06:43:11,527	INFO	3	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2026.02.25 06:43:11,571	INFO	3	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2026.02.25 06:43:11,575	INFO	3	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2026.02.25 06:43:11,576	INFO	3	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2026.02.25 06:43:11,598	INFO	3	org.l2jmobius.loginserver.LoginServer	LoginServer: is now listening on: 0.0.0.0:2106
+2026.02.25 06:43:23,115	INFO	59	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2026.02.25 06:43:23,116	INFO	59	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/0.0.0.0/0

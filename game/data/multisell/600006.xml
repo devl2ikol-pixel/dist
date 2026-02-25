@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600006: A-grade Jewelry. Auto-generated from item data (price as Adena cost). -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="872" count="1" /> <!-- Cerberus Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="934" count="1" /> <!-- Cerberus Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="903" count="1" /> <!-- Cerberus Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="81300" /> <!-- Adena -->
+		<production id="12355" count="1" /> <!-- Common Item - Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="108300" /> <!-- Adena -->
+		<production id="12353" count="1" /> <!-- Common Item - Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="54200" /> <!-- Adena -->
+		<production id="12354" count="1" /> <!-- Common Item - Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="51800" /> <!-- Adena -->
+		<production id="12349" count="1" /> <!-- Common Item - Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="69000" /> <!-- Adena -->
+		<production id="12347" count="1" /> <!-- Common Item - Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="34500" /> <!-- Adena -->
+		<production id="12348" count="1" /> <!-- Common Item - Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="115000" /> <!-- Adena -->
+		<production id="12219" count="1" /> <!-- Common Item - Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="81300" /> <!-- Adena -->
+		<production id="12352" count="1" /> <!-- Common Item - Sealed Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="108300" /> <!-- Adena -->
+		<production id="12350" count="1" /> <!-- Common Item - Sealed Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="54200" /> <!-- Adena -->
+		<production id="12351" count="1" /> <!-- Common Item - Sealed Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="51800" /> <!-- Adena -->
+		<production id="12345" count="1" /> <!-- Common Item - Sealed Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="69000" /> <!-- Adena -->
+		<production id="12344" count="1" /> <!-- Common Item - Sealed Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="34500" /> <!-- Adena -->
+		<production id="12346" count="1" /> <!-- Common Item - Sealed Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="184000" /> <!-- Adena -->
+		<production id="12281" count="1" /> <!-- Common Item - Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="868" count="1" /> <!-- Earring of Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="10207" count="1" /> <!-- Enhanced Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="3450000" /> <!-- Adena -->
+		<production id="8191" count="1" /> <!-- Frintezza's Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="862" count="1" /> <!-- Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="11589" count="1" /> <!-- Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="14348" count="1" /> <!-- Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="924" count="1" /> <!-- Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="11587" count="1" /> <!-- Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="14350" count="1" /> <!-- Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="893" count="1" /> <!-- Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="11588" count="1" /> <!-- Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="14349" count="1" /> <!-- Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="930" count="1" /> <!-- Necklace of Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="1300000" /> <!-- Adena -->
+		<production id="6661" count="1" /> <!-- Orfen's Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1005000" /> <!-- Adena -->
+		<production id="871" count="1" /> <!-- Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1005000" /> <!-- Adena -->
+		<production id="11586" count="1" /> <!-- Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1340000" /> <!-- Adena -->
+		<production id="933" count="1" /> <!-- Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1340000" /> <!-- Adena -->
+		<production id="11584" count="1" /> <!-- Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="670000" /> <!-- Adena -->
+		<production id="902" count="1" /> <!-- Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="670000" /> <!-- Adena -->
+		<production id="11585" count="1" /> <!-- Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="870000" /> <!-- Adena -->
+		<production id="6662" count="1" /> <!-- Ring of Core -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="899" count="1" /> <!-- Ring of Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="588000" /> <!-- Adena -->
+		<production id="9581" count="1" /> <!-- Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="588000" /> <!-- Adena -->
+		<production id="10497" count="1" /> <!-- Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="588000" /> <!-- Adena -->
+		<production id="10498" count="1" /> <!-- Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="588000" /> <!-- Adena -->
+		<production id="10499" count="1" /> <!-- Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="6327" count="1" /> <!-- Sealed Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1498000" /> <!-- Adena -->
+		<production id="11592" count="1" /> <!-- Sealed Majestic Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="6326" count="1" /> <!-- Sealed Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1998000" /> <!-- Adena -->
+		<production id="11590" count="1" /> <!-- Sealed Majestic Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="6328" count="1" /> <!-- Sealed Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="999000" /> <!-- Adena -->
+		<production id="11591" count="1" /> <!-- Sealed Majestic Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1005000" /> <!-- Adena -->
+		<production id="6324" count="1" /> <!-- Sealed Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1005000" /> <!-- Adena -->
+		<production id="11583" count="1" /> <!-- Sealed Phoenix Earring -->
+	</item>
+	<item>
+		<ingredient id="57" count="1340000" /> <!-- Adena -->
+		<production id="6323" count="1" /> <!-- Sealed Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="1340000" /> <!-- Adena -->
+		<production id="11581" count="1" /> <!-- Sealed Phoenix Necklace -->
+	</item>
+	<item>
+		<ingredient id="57" count="670000" /> <!-- Adena -->
+		<production id="6325" count="1" /> <!-- Sealed Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="670000" /> <!-- Adena -->
+		<production id="11582" count="1" /> <!-- Sealed Phoenix Ring -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="9587" count="1" /> <!-- Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="10509" count="1" /> <!-- Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="10510" count="1" /> <!-- Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="10511" count="1" /> <!-- Striped Scale Shirt -->
+	</item>
+	<item>
+		<ingredient id="57" count="880000" /> <!-- Adena -->
+		<production id="684" count="1" /> <!-- Underwear of Rule -->
+	</item>
+</list>

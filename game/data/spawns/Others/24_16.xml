@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="24_16">
+		<group>
+			<npc id="50000" x="147882" y="-55237" z="-2736" heading="48239" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="50000" x="147869" y="-56601" z="-2781" heading="18205" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="1002001" x="147555" y="-56589" z="-2781" heading="18939" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+			<npc id="1002001" x="147563" y="-55242" z="-2737" heading="48705" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+		</group>
+	</spawn>
+</list>

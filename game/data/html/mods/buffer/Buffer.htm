@@ -1,0 +1,220 @@
+<html>
+<head>
+<title>Buffer</title>
+</head>
+<body>
+
+<table width=100% height=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td align=center valign=middle>
+
+    <!-- MAIN WINDOW -->
+    <table width=290 cellpadding=0 cellspacing=0 border=0>
+
+        <!-- Header -->
+        <tr>
+            <td align=center>
+                <br>
+                <font name="hs9" color="BFBFBF">Бафер</font>
+                <br><br>
+            </td>
+        </tr>
+
+        <!-- Target -->
+        <tr>
+            <td align=center>
+                <font color="A9A9A9">Ціль:</font>
+                <font color="00FF00">%target%</font>
+                <br1>
+
+                <table width=260 cellpadding=0 cellspacing=0 border=0>
+                    <tr>
+                        <td align=right>
+                            <button value="Игрок"
+                                    action="bypass -h npc_%objectId%_Target player"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td width=10></td>
+
+                        <td align=left>
+                            <button value="Питомец"
+                                    action="bypass -h npc_%objectId%_Target pet"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+                    </tr>
+                </table>
+
+                <br><br>
+            </td>
+        </tr>
+
+        <!-- Main controls -->
+        <tr>
+            <td align=center>
+
+                <table width=290 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td align=center>
+                            <button value="HP/CP/MP"
+                                    action="bypass -h npc_%objectId%_recHp"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td align=center>
+                            <button value="Профиль"
+                                    action="bypass -h npc_%objectId%_Profile"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td align=center>
+                            <button value="Очистить"
+                                    action="bypass -h npc_%objectId%_RemBuff"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+                    </tr>
+                </table>
+
+                <br>
+
+                <!-- Mage / Warrior -->
+                <table width=280 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td align=center>
+                            <button value="Баффы мага"
+                                    action="bypass -h npc_%objectId%_Buff 5555"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td width=10></td>
+
+                        <td align=center>
+                            <button value="Баффы воина"
+                                    action="bypass -h npc_%objectId%_Buff 6666"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+                    </tr>
+                </table>
+
+                <br>
+
+                <!-- Premium -->
+                <font color="D6B36A">Премиум Сертификат стоит 10 Donate Coin!</font>
+                <br>
+
+                <button value="Premium"
+                        action="bypass -h npc_%objectId%_addpremium"
+                        width=90 height=20
+                        back="L2EssenceCommunity.raids_btn_small_over"
+                        fore="L2EssenceCommunity.raids_btn_small">
+
+                <br><br>
+
+                <!-- Tabs -->
+                <table width=290 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+                        <td align=center>
+                            <button value="Баффы"
+                                    action="bypass -h npc_%objectId%_Chat 2"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td align=center>
+                            <button value="Дансы"
+                                    action="bypass -h npc_%objectId%_Chat 1"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+
+                        <td align=center>
+                            <button value="Сонги"
+                                    action="bypass -h npc_%objectId%_Chat 3"
+                                    width=90 height=20
+                                    back="L2EssenceCommunity.raids_btn_small_over"
+                                    fore="L2EssenceCommunity.raids_btn_small">
+                        </td>
+                    </tr>
+                </table>
+
+                <br>
+
+                <button value="Чанты"
+                        action="bypass -h npc_%objectId%_Chat 4"
+                        width=90 height=20
+                        back="L2EssenceCommunity.raids_btn_small_over"
+                        fore="L2EssenceCommunity.raids_btn_small">
+
+                <br><br>
+
+                <!-- Quick buffs -->
+                <table width=280 border=0 cellpadding=0 cellspacing=0>
+                    <tr>
+
+                        <td align=center>
+                            <img src="icon.skill1363" width=32 height=32><br>
+                            <a action="bypass -h npc_%objectId%_Buff 1363">
+                                <font color="00FF00">Victory</font>
+                            </a>
+                        </td>
+
+                        <td align=center>
+                            <img src="icon.skill1356" width=32 height=32><br>
+                            <a action="bypass -h npc_%objectId%_Buff 1356">
+                                <font color="FF5500">Fire</font>
+                            </a>
+                        </td>
+
+                        <td align=center>
+                            <img src="icon.skill1355" width=32 height=32><br>
+                            <a action="bypass -h npc_%objectId%_Buff 1355">
+                                <font color="0099FF">Water</font>
+                            </a>
+                        </td>
+
+                        <td align=center>
+                            <img src="icon.skill1357" width=32 height=32><br>
+                            <a action="bypass -h npc_%objectId%_Buff 1357">
+                                <font color="AAAAFF">Wind</font>
+                            </a>
+                        </td>
+
+                        <td align=center>
+                            <img src="icon.skill1413" width=32 height=32><br>
+                            <a action="bypass -h npc_%objectId%_Buff 1413">
+                                <font color="00FF00">Magnus</font>
+                            </a>
+                        </td>
+
+                    </tr>
+                </table>
+
+                <br>
+
+            </td>
+        </tr>
+
+    </table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

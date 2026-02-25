@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="18_14">
+		<group>
+			<npc id="32478" x="-43728" y="-113472" z="-240" heading="32599" respawnTime="60sec" /> <!-- Dimensional Merchant -->
+			<npc id="50000" x="-43729" y="-113291" z="-242" heading="27131" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="1002001" x="-43732" y="-113728" z="-242" heading="32037" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+		</group>
+	</spawn>
+</list>

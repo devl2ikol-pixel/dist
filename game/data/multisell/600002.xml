@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600002: S-grade Weapons. Auto-generated from item data (price as Adena cost). -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6367" count="1" /> <!-- Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6590" count="1" /> <!-- Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6591" count="1" /> <!-- Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6592" count="1" /> <!-- Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11226" count="1" /> <!-- Angel Slayer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11227" count="1" /> <!-- Angel Slayer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11228" count="1" /> <!-- Angel Slayer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11229" count="1" /> <!-- Angel Slayer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6579" count="1" /> <!-- Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6608" count="1" /> <!-- Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6609" count="1" /> <!-- Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6610" count="1" /> <!-- Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11222" count="1" /> <!-- Arcana Mace - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11223" count="1" /> <!-- Arcana Mace - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11224" count="1" /> <!-- Arcana Mace - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11225" count="1" /> <!-- Arcana Mace - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6365" count="1" /> <!-- Basalt Battlehammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6584" count="1" /> <!-- Basalt Battlehammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6585" count="1" /> <!-- Basalt Battlehammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6586" count="1" /> <!-- Basalt Battlehammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11210" count="1" /> <!-- Basalt Battlehammer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11211" count="1" /> <!-- Basalt Battlehammer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11212" count="1" /> <!-- Basalt Battlehammer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11213" count="1" /> <!-- Basalt Battlehammer - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21955" count="1" /> <!-- Blades of Delusion -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21957" count="1" /> <!-- Blades of Delusion - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21959" count="1" /> <!-- Blood Brother -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21960" count="1" /> <!-- Blood Brother -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21961" count="1" /> <!-- Blood Brother -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21962" count="1" /> <!-- Blood Brother -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21966" count="1" /> <!-- Blood Brother - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21967" count="1" /> <!-- Blood Brother - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21968" count="1" /> <!-- Blood Brother - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="21969" count="1" /> <!-- Blood Brother - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="290" count="1" /> <!-- Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="48800000" /> <!-- Adena -->
+		<production id="6368" count="1" /> <!-- Bow of Light -->
+	</item>
+	<item>
+		<ingredient id="57" count="48800000" /> <!-- Adena -->
+		<production id="6593" count="1" /> <!-- Bow of Light -->
+	</item>
+	<item>
+		<ingredient id="57" count="48800000" /> <!-- Adena -->
+		<production id="6594" count="1" /> <!-- Bow of Light -->
+	</item>
+	<item>
+		<ingredient id="57" count="48800000" /> <!-- Adena -->
+		<production id="6595" count="1" /> <!-- Bow of Light -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12001" count="1" /> <!-- Common Item - Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12000" count="1" /> <!-- Common Item - Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11997" count="1" /> <!-- Common Item - Basalt Battlehammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11993" count="1" /> <!-- Common Item - Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11994" count="1" /> <!-- Common Item - Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11995" count="1" /> <!-- Common Item - Dragon Hunter Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12004" count="1" /> <!-- Common Item - Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11992" count="1" /> <!-- Common Item - Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12005" count="1" /> <!-- Common Item - Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12002" count="1" /> <!-- Common Item - Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11996" count="1" /> <!-- Common Item - Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11999" count="1" /> <!-- Common Item - Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="11998" count="1" /> <!-- Common Item - Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="3477000" /> <!-- Adena -->
+		<production id="12003" count="1" /> <!-- Common Item - Tallum Blade*Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="10000000" /> <!-- Adena -->
+		<production id="6534" count="1" /> <!-- Corroded Triton Pole -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6371" count="1" /> <!-- Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6602" count="1" /> <!-- Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6603" count="1" /> <!-- Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6604" count="1" /> <!-- Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11194" count="1" /> <!-- Demon Splinter - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11195" count="1" /> <!-- Demon Splinter - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11196" count="1" /> <!-- Demon Splinter - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11197" count="1" /> <!-- Demon Splinter - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="7575" count="1" /> <!-- Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="7576" count="1" /> <!-- Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="7577" count="1" /> <!-- Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="7578" count="1" /> <!-- Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11198" count="1" /> <!-- Draconic Bow - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11199" count="1" /> <!-- Draconic Bow - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11200" count="1" /> <!-- Draconic Bow - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11201" count="1" /> <!-- Draconic Bow - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="306" count="1" /> <!-- Dragon Claw Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6369" count="1" /> <!-- Dragon Hunter Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6596" count="1" /> <!-- Dragon Hunter Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6597" count="1" /> <!-- Dragon Hunter Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6598" count="1" /> <!-- Dragon Hunter Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11202" count="1" /> <!-- Dragon Hunter Axe - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11203" count="1" /> <!-- Dragon Hunter Axe - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11204" count="1" /> <!-- Dragon Hunter Axe - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11205" count="1" /> <!-- Dragon Hunter Axe - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="237" count="1" /> <!-- Dragon's Tooth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9380" count="1" /> <!-- Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9381" count="1" /> <!-- Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9382" count="1" /> <!-- Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9383" count="1" /> <!-- Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11243" count="1" /> <!-- Dynasty Ancient Sword - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11244" count="1" /> <!-- Dynasty Ancient Sword - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11245" count="1" /> <!-- Dynasty Ancient Sword - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11246" count="1" /> <!-- Dynasty Ancient Sword - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9450" count="1" /> <!-- Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9878" count="1" /> <!-- Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9879" count="1" /> <!-- Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9880" count="1" /> <!-- Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11260" count="1" /> <!-- Dynasty Bagh-Nakh - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11261" count="1" /> <!-- Dynasty Bagh-Nakh - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11262" count="1" /> <!-- Dynasty Bagh-Nakh - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11263" count="1" /> <!-- Dynasty Bagh-Nakh - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9443" count="1" /> <!-- Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9857" count="1" /> <!-- Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9858" count="1" /> <!-- Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9859" count="1" /> <!-- Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11268" count="1" /> <!-- Dynasty Blade - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11269" count="1" /> <!-- Dynasty Blade - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11270" count="1" /> <!-- Dynasty Blade - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11271" count="1" /> <!-- Dynasty Blade - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9445" count="1" /> <!-- Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9863" count="1" /> <!-- Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9864" count="1" /> <!-- Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9865" count="1" /> <!-- Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11264" count="1" /> <!-- Dynasty Bow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11265" count="1" /> <!-- Dynasty Bow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11266" count="1" /> <!-- Dynasty Bow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11267" count="1" /> <!-- Dynasty Bow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9384" count="1" /> <!-- Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9385" count="1" /> <!-- Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9386" count="1" /> <!-- Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9387" count="1" /> <!-- Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11288" count="1" /> <!-- Dynasty Crossbow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11289" count="1" /> <!-- Dynasty Crossbow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11290" count="1" /> <!-- Dynasty Crossbow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11291" count="1" /> <!-- Dynasty Crossbow - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10253" count="1" /> <!-- Dynasty Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10530" count="1" /> <!-- Dynasty Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10531" count="1" /> <!-- Dynasty Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10532" count="1" /> <!-- Dynasty Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11284" count="1" /> <!-- Dynasty Crusher - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11285" count="1" /> <!-- Dynasty Crusher - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11286" count="1" /> <!-- Dynasty Crusher - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11287" count="1" /> <!-- Dynasty Crusher - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9448" count="1" /> <!-- Dynasty Cudgel -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9872" count="1" /> <!-- Dynasty Cudgel -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9873" count="1" /> <!-- Dynasty Cudgel -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9874" count="1" /> <!-- Dynasty Cudgel -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11280" count="1" /> <!-- Dynasty Cudgel - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11281" count="1" /> <!-- Dynasty Cudgel - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11282" count="1" /> <!-- Dynasty Cudgel - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11283" count="1" /> <!-- Dynasty Cudgel - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="87901000" /> <!-- Adena -->
+		<production id="13882" count="1" /> <!-- Dynasty Dual Dagger -->
+	</item>
+	<item>
+		<ingredient id="57" count="87901000" /> <!-- Adena -->
+		<production id="14526" count="1" /> <!-- Dynasty Dual Dagger - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10004" count="1" /> <!-- Dynasty Dualsword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11251" count="1" /> <!-- Dynasty Dualsword - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9447" count="1" /> <!-- Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9869" count="1" /> <!-- Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9870" count="1" /> <!-- Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9871" count="1" /> <!-- Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11296" count="1" /> <!-- Dynasty Halberd - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11297" count="1" /> <!-- Dynasty Halberd - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11298" count="1" /> <!-- Dynasty Halberd - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11299" count="1" /> <!-- Dynasty Halberd - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9446" count="1" /> <!-- Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9866" count="1" /> <!-- Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9867" count="1" /> <!-- Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9868" count="1" /> <!-- Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11247" count="1" /> <!-- Dynasty Knife - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11248" count="1" /> <!-- Dynasty Knife - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11249" count="1" /> <!-- Dynasty Knife - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11250" count="1" /> <!-- Dynasty Knife - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9449" count="1" /> <!-- Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9875" count="1" /> <!-- Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9876" count="1" /> <!-- Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9877" count="1" /> <!-- Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11256" count="1" /> <!-- Dynasty Mace - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11257" count="1" /> <!-- Dynasty Mace - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11258" count="1" /> <!-- Dynasty Mace - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11259" count="1" /> <!-- Dynasty Mace - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9444" count="1" /> <!-- Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9860" count="1" /> <!-- Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9861" count="1" /> <!-- Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9862" count="1" /> <!-- Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11292" count="1" /> <!-- Dynasty Phantom - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11293" count="1" /> <!-- Dynasty Phantom - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11294" count="1" /> <!-- Dynasty Phantom - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11295" count="1" /> <!-- Dynasty Phantom - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9376" count="1" /> <!-- Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9377" count="1" /> <!-- Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9378" count="1" /> <!-- Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9379" count="1" /> <!-- Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11252" count="1" /> <!-- Dynasty Rapier - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11253" count="1" /> <!-- Dynasty Rapier - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11254" count="1" /> <!-- Dynasty Rapier - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11255" count="1" /> <!-- Dynasty Rapier - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10252" count="1" /> <!-- Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10527" count="1" /> <!-- Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10528" count="1" /> <!-- Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="10529" count="1" /> <!-- Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11276" count="1" /> <!-- Dynasty Staff - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11277" count="1" /> <!-- Dynasty Staff - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11278" count="1" /> <!-- Dynasty Staff - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11279" count="1" /> <!-- Dynasty Staff - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9442" count="1" /> <!-- Dynasty Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9854" count="1" /> <!-- Dynasty Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9855" count="1" /> <!-- Dynasty Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="9856" count="1" /> <!-- Dynasty Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11272" count="1" /> <!-- Dynasty Sword - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11273" count="1" /> <!-- Dynasty Sword - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11274" count="1" /> <!-- Dynasty Sword - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="74946000" /> <!-- Adena -->
+		<production id="11275" count="1" /> <!-- Dynasty Sword - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32500" count="1" /> <!-- Fantasy Angel Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32515" count="1" /> <!-- Fantasy Arcana Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32521" count="1" /> <!-- Fantasy Demon Splinter -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32511" count="1" /> <!-- Fantasy Draconic Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32510" count="1" /> <!-- Fantasy Dynasty Ancient Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32522" count="1" /> <!-- Fantasy Dynasty Bagh-Nakh -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32508" count="1" /> <!-- Fantasy Dynasty Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32512" count="1" /> <!-- Fantasy Dynasty Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32514" count="1" /> <!-- Fantasy Dynasty Crossbow -->
+	</item>
+	<item>
+		<ingredient id="57" count="4395050" /> <!-- Adena -->
+		<production id="32502" count="1" /> <!-- Fantasy Dynasty Dual Dagger -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32524" count="1" /> <!-- Fantasy Dynasty Dualsword -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32520" count="1" /> <!-- Fantasy Dynasty Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32501" count="1" /> <!-- Fantasy Dynasty Knife -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32516" count="1" /> <!-- Fantasy Dynasty Mace -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32503" count="1" /> <!-- Fantasy Dynasty Phantom -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32506" count="1" /> <!-- Fantasy Dynasty Rapier -->
+	</item>
+	<item>
+		<ingredient id="57" count="3747300" /> <!-- Adena -->
+		<production id="32518" count="1" /> <!-- Fantasy Dynasty Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32504" count="1" /> <!-- Fantasy Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32509" count="1" /> <!-- Fantasy Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32507" count="1" /> <!-- Fantasy Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32517" count="1" /> <!-- Fantasy Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32505" count="1" /> <!-- Fantasy Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32519" count="1" /> <!-- Fantasy Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="2137970" /> <!-- Adena -->
+		<production id="32513" count="1" /> <!-- Fantasy Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6364" count="1" /> <!-- Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6581" count="1" /> <!-- Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6582" count="1" /> <!-- Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6583" count="1" /> <!-- Forgotten Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11235" count="1" /> <!-- Forgotten Blade - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11236" count="1" /> <!-- Forgotten Blade - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11237" count="1" /> <!-- Forgotten Blade - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11238" count="1" /> <!-- Forgotten Blade - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9368" count="1" /> <!-- Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9369" count="1" /> <!-- Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9370" count="1" /> <!-- Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9371" count="1" /> <!-- Gram -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11190" count="1" /> <!-- Gram - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11191" count="1" /> <!-- Gram - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11192" count="1" /> <!-- Gram - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11193" count="1" /> <!-- Gram - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6372" count="1" /> <!-- Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6605" count="1" /> <!-- Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6606" count="1" /> <!-- Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6607" count="1" /> <!-- Heaven's Divider -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11239" count="1" /> <!-- Heaven's Divider - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11240" count="1" /> <!-- Heaven's Divider - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11241" count="1" /> <!-- Heaven's Divider - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11242" count="1" /> <!-- Heaven's Divider - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="165" count="1" /> <!-- Hermuncus' Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6366" count="1" /> <!-- Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6587" count="1" /> <!-- Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6588" count="1" /> <!-- Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6589" count="1" /> <!-- Imperial Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11230" count="1" /> <!-- Imperial Staff - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11231" count="1" /> <!-- Imperial Staff - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11232" count="1" /> <!-- Imperial Staff - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11233" count="1" /> <!-- Imperial Staff - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9364" count="1" /> <!-- Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9365" count="1" /> <!-- Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9366" count="1" /> <!-- Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9367" count="1" /> <!-- Laevateinn -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11206" count="1" /> <!-- Laevateinn - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11207" count="1" /> <!-- Laevateinn - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11208" count="1" /> <!-- Laevateinn - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11209" count="1" /> <!-- Laevateinn - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6370" count="1" /> <!-- Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6599" count="1" /> <!-- Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6600" count="1" /> <!-- Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6601" count="1" /> <!-- Saint Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11218" count="1" /> <!-- Saint Spear - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11219" count="1" /> <!-- Saint Spear - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11220" count="1" /> <!-- Saint Spear - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11221" count="1" /> <!-- Saint Spear - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9372" count="1" /> <!-- Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9373" count="1" /> <!-- Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9374" count="1" /> <!-- Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="9375" count="1" /> <!-- Sarunga -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11214" count="1" /> <!-- Sarunga - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11215" count="1" /> <!-- Sarunga - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11216" count="1" /> <!-- Sarunga - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11217" count="1" /> <!-- Sarunga - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="214" count="1" /> <!-- Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="6580" count="1" /> <!-- Tallum Blade*Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="42759400" /> <!-- Adena -->
+		<production id="11234" count="1" /> <!-- Tallum Blade*Dark Legion's Edge - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="35300000" /> <!-- Adena -->
+		<production id="346" count="1" /> <!-- Tears of Fallen Angel -->
+	</item>
+</list>

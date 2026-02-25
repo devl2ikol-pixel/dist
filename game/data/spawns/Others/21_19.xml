@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="21_19">
+		<group>
+			<npc id="32478" x="47600" y="49920" z="-2992" heading="33462" respawnTime="60sec" /> <!-- Dimensional Merchant -->
+			<npc id="50000" x="45653" y="49080" z="-3063" heading="22210" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="50000" x="46863" y="51467" z="-2979" heading="51210" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="30991" x="46985" y="51530" z="-2979" heading="53988" respawnTime="60sec" /> <!-- Lottery Ticket Seller -->
+			<npc id="1002001" x="45694" y="49108" z="-3063" heading="24912" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+			<npc id="1002001" x="46931" y="51608" z="-2979" heading="16383" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+		</group>
+	</spawn>
+</list>

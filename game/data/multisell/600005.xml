@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600005: A-grade Weapons. Auto-generated from item data (price as Adena cost). -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8680" count="1" /> <!-- Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8794" count="1" /> <!-- Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8795" count="1" /> <!-- Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8796" count="1" /> <!-- Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11141" count="1" /> <!-- Barakiel's Axe - Mild -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11142" count="1" /> <!-- Barakiel's Axe - Mild -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11143" count="1" /> <!-- Barakiel's Axe - Mild -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11144" count="1" /> <!-- Barakiel's Axe - Mild -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8681" count="1" /> <!-- Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8797" count="1" /> <!-- Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8798" count="1" /> <!-- Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8799" count="1" /> <!-- Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14330" count="1" /> <!-- Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11149" count="1" /> <!-- Behemoth' Tuning Fork - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11150" count="1" /> <!-- Behemoth' Tuning Fork - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11151" count="1" /> <!-- Behemoth' Tuning Fork - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11152" count="1" /> <!-- Behemoth' Tuning Fork - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="269" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4807" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4808" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4809" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5620" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5621" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5622" count="1" /> <!-- Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11033" count="1" /> <!-- Blood Tornado - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11034" count="1" /> <!-- Blood Tornado - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11035" count="1" /> <!-- Blood Tornado - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11036" count="1" /> <!-- Blood Tornado - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="235" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4783" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4784" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4785" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5614" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5615" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5616" count="1" /> <!-- Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11037" count="1" /> <!-- Bloody Orchid - Confusion -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11038" count="1" /> <!-- Bloody Orchid - Confusion -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11039" count="1" /> <!-- Bloody Orchid - Confusion -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11040" count="1" /> <!-- Bloody Orchid - Confusion -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="213" count="1" /> <!-- Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5605" count="1" /> <!-- Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5606" count="1" /> <!-- Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5607" count="1" /> <!-- Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11104" count="1" /> <!-- Branch of the Mother Tree - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11105" count="1" /> <!-- Branch of the Mother Tree - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11106" count="1" /> <!-- Branch of the Mother Tree - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11107" count="1" /> <!-- Branch of the Mother Tree - Nature -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8687" count="1" /> <!-- Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8815" count="1" /> <!-- Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8816" count="1" /> <!-- Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8817" count="1" /> <!-- Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14336" count="1" /> <!-- Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11186" count="1" /> <!-- Cabrio's Hand - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11187" count="1" /> <!-- Cabrio's Hand - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11188" count="1" /> <!-- Cabrio's Hand - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11189" count="1" /> <!-- Cabrio's Hand - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="288" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4831" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4832" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4833" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5608" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5609" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5610" count="1" /> <!-- Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11053" count="1" /> <!-- Carnage Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11054" count="1" /> <!-- Carnage Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11055" count="1" /> <!-- Carnage Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11056" count="1" /> <!-- Carnage Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11979" count="1" /> <!-- Common Item - Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11981" count="1" /> <!-- Common Item - Behemoth' Tuning Fork -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11950" count="1" /> <!-- Common Item - Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11951" count="1" /> <!-- Common Item - Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11970" count="1" /> <!-- Common Item - Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11991" count="1" /> <!-- Common Item - Cabrio's Hand -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11955" count="1" /> <!-- Common Item - Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11978" count="1" /> <!-- Common Item - Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11963" count="1" /> <!-- Common Item - Damascus*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11964" count="1" /> <!-- Common Item - Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11946" count="1" /> <!-- Common Item - Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11958" count="1" /> <!-- Common Item - Destroyer Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11959" count="1" /> <!-- Common Item - Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11966" count="1" /> <!-- Common Item - Doom Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11947" count="1" /> <!-- Common Item - Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11967" count="1" /> <!-- Common Item - Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11968" count="1" /> <!-- Common Item - Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11982" count="1" /> <!-- Common Item - Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11952" count="1" /> <!-- Common Item - Elemental Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11974" count="1" /> <!-- Common Item - Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11969" count="1" /> <!-- Common Item - Flaming Dragon Skull -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11960" count="1" /> <!-- Common Item - Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11954" count="1" /> <!-- Common Item - Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="1063000" /> <!-- Adena -->
+		<production id="11961" count="1" /> <!-- Common Item - Keshanberk*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11956" count="1" /> <!-- Common Item - Keshanberk*Keshanberk -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11962" count="1" /> <!-- Common Item - Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11949" count="1" /> <!-- Common Item - Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11977" count="1" /> <!-- Common Item - Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11972" count="1" /> <!-- Common Item - Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11980" count="1" /> <!-- Common Item - Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11983" count="1" /> <!-- Common Item - Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11986" count="1" /> <!-- Common Item - Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11985" count="1" /> <!-- Common Item - Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11975" count="1" /> <!-- Common Item - Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11973" count="1" /> <!-- Common Item - Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11953" count="1" /> <!-- Common Item - Spiritual Eye -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11984" count="1" /> <!-- Common Item - Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11971" count="1" /> <!-- Common Item - Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11957" count="1" /> <!-- Common Item - Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11989" count="1" /> <!-- Common Item - Tallum Blade*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11976" count="1" /> <!-- Common Item - Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11990" count="1" /> <!-- Common Item - Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11988" count="1" /> <!-- Common Item - Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="1125000" /> <!-- Adena -->
+		<production id="11965" count="1" /> <!-- Common Item - Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="726500" /> <!-- Adena -->
+		<production id="11948" count="1" /> <!-- Common Item - White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="1292000" /> <!-- Adena -->
+		<production id="11987" count="1" /> <!-- Common Item - Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14329" count="1" /> <!-- Corroded Barakiel's Axe -->
+	</item>
+	<item>
+		<ingredient id="57" count="4000000" /> <!-- Adena -->
+		<production id="6533" count="1" /> <!-- Corroded Cygnus Pole -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14337" count="1" /> <!-- Corroded Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14340" count="1" /> <!-- Corroded Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8688" count="1" /> <!-- Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8818" count="1" /> <!-- Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8819" count="1" /> <!-- Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8820" count="1" /> <!-- Daimon Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11137" count="1" /> <!-- Daimon Crystal - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11138" count="1" /> <!-- Daimon Crystal - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11139" count="1" /> <!-- Daimon Crystal - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11140" count="1" /> <!-- Daimon Crystal - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5706" count="1" /> <!-- Damascus*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11079" count="1" /> <!-- Damascus*Damascus - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="2500" count="1" /> <!-- Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5647" count="1" /> <!-- Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5648" count="1" /> <!-- Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5649" count="1" /> <!-- Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11080" count="1" /> <!-- Dark Legion's Edge - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11081" count="1" /> <!-- Dark Legion's Edge - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11082" count="1" /> <!-- Dark Legion's Edge - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11083" count="1" /> <!-- Dark Legion's Edge - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="212" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4903" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4904" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4905" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5596" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5597" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5598" count="1" /> <!-- Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11017" count="1" /> <!-- Dasparion's Staff - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11018" count="1" /> <!-- Dasparion's Staff - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11019" count="1" /> <!-- Dasparion's Staff - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11020" count="1" /> <!-- Dasparion's Staff - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="27000000" /> <!-- Adena -->
+		<production id="345" count="1" /> <!-- Deathbringer Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="7899" count="1" /> <!-- Destroyer Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8126" count="1" /> <!-- Destroyer Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8127" count="1" /> <!-- Destroyer Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8128" count="1" /> <!-- Destroyer Hammer -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11062" count="1" /> <!-- Destroyer Hammer - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11063" count="1" /> <!-- Destroyer Hammer - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11064" count="1" /> <!-- Destroyer Hammer - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11065" count="1" /> <!-- Destroyer Hammer - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9332" count="1" /> <!-- Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9333" count="1" /> <!-- Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9334" count="1" /> <!-- Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9335" count="1" /> <!-- Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11066" count="1" /> <!-- Divine Pain - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11067" count="1" /> <!-- Divine Pain - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11068" count="1" /> <!-- Divine Pain - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11069" count="1" /> <!-- Divine Pain - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="7902" count="1" /> <!-- Doom Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8135" count="1" /> <!-- Doom Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8136" count="1" /> <!-- Doom Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8137" count="1" /> <!-- Doom Crusher -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11088" count="1" /> <!-- Doom Crusher - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11089" count="1" /> <!-- Doom Crusher - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11090" count="1" /> <!-- Doom Crusher - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11091" count="1" /> <!-- Doom Crusher - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9336" count="1" /> <!-- Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9337" count="1" /> <!-- Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9338" count="1" /> <!-- Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9339" count="1" /> <!-- Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11021" count="1" /> <!-- Doomchanter - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11022" count="1" /> <!-- Doomchanter - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11023" count="1" /> <!-- Doomchanter - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11024" count="1" /> <!-- Doomchanter - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="270" count="1" /> <!-- Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5623" count="1" /> <!-- Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5624" count="1" /> <!-- Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5625" count="1" /> <!-- Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11092" count="1" /> <!-- Dragon Grinder - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11093" count="1" /> <!-- Dragon Grinder - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11094" count="1" /> <!-- Dragon Grinder - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11095" count="1" /> <!-- Dragon Grinder - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="81" count="1" /> <!-- Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5644" count="1" /> <!-- Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5645" count="1" /> <!-- Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5646" count="1" /> <!-- Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11096" count="1" /> <!-- Dragon Slayer - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11097" count="1" /> <!-- Dragon Slayer - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11098" count="1" /> <!-- Dragon Slayer - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11099" count="1" /> <!-- Dragon Slayer - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9356" count="1" /> <!-- Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9357" count="1" /> <!-- Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9358" count="1" /> <!-- Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9359" count="1" /> <!-- Durendal -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11153" count="1" /> <!-- Durendal - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11154" count="1" /> <!-- Durendal - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11155" count="1" /> <!-- Durendal - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11156" count="1" /> <!-- Durendal - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="150" count="1" /> <!-- Elemental Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5638" count="1" /> <!-- Elemental Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5639" count="1" /> <!-- Elemental Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5640" count="1" /> <!-- Elemental Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11041" count="1" /> <!-- Elemental Sword - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11042" count="1" /> <!-- Elemental Sword - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11043" count="1" /> <!-- Elemental Sword - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11044" count="1" /> <!-- Elemental Sword - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="164" count="1" /> <!-- Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5602" count="1" /> <!-- Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5603" count="1" /> <!-- Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5604" count="1" /> <!-- Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11120" count="1" /> <!-- Elysian - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11121" count="1" /> <!-- Elysian - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11122" count="1" /> <!-- Elysian - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11123" count="1" /> <!-- Elysian - Great Gale -->
+	</item>
+	<item>
+		<ingredient id="57" count="27000000" /> <!-- Adena -->
+		<production id="342" count="1" /> <!-- Enchanted Flute -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32470" count="1" /> <!-- Fantasy Blood Tornado -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32449" count="1" /> <!-- Fantasy Bloody Orchid -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32467" count="1" /> <!-- Fantasy Branch of the Mother Tree -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32460" count="1" /> <!-- Fantasy Carnage Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32453" count="1" /> <!-- Fantasy Dark Legion's Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32466" count="1" /> <!-- Fantasy Dasparion's Staff -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32458" count="1" /> <!-- Fantasy Divine Pain -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32462" count="1" /> <!-- Fantasy Doomchanter -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32471" count="1" /> <!-- Fantasy Dragon Grinder -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32457" count="1" /> <!-- Fantasy Dragon Slayer -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32465" count="1" /> <!-- Fantasy Elysian -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32468" count="1" /> <!-- Fantasy Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32456" count="1" /> <!-- Fantasy Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="928370" /> <!-- Adena -->
+		<production id="32473" count="1" /> <!-- Fantasy Keshanberk*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32472" count="1" /> <!-- Fantasy Keshanberk*Keshanberk -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32455" count="1" /> <!-- Fantasy Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32464" count="1" /> <!-- Fantasy Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32463" count="1" /> <!-- Fantasy Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32461" count="1" /> <!-- Fantasy Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32450" count="1" /> <!-- Fantasy Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32451" count="1" /> <!-- Fantasy Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32452" count="1" /> <!-- Fantasy Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32523" count="1" /> <!-- Fantasy Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32469" count="1" /> <!-- Fantasy Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="1037050" /> <!-- Adena -->
+		<production id="32459" count="1" /> <!-- Fantasy Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="704900" /> <!-- Adena -->
+		<production id="32454" count="1" /> <!-- Fantasy White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="7895" count="1" /> <!-- Flaming Dragon Skull -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8150" count="1" /> <!-- Flaming Dragon Skull -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8151" count="1" /> <!-- Flaming Dragon Skull -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="8152" count="1" /> <!-- Flaming Dragon Skull -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11100" count="1" /> <!-- Flaming Dragon Skull - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11101" count="1" /> <!-- Flaming Dragon Skull - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11102" count="1" /> <!-- Flaming Dragon Skull - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11103" count="1" /> <!-- Flaming Dragon Skull - Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="27000000" /> <!-- Adena -->
+		<production id="341" count="1" /> <!-- Forgotten Tome -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="98" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4861" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4862" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4863" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5626" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5627" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5628" count="1" /> <!-- Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11070" count="1" /> <!-- Halberd - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11071" count="1" /> <!-- Halberd - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11072" count="1" /> <!-- Halberd - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11073" count="1" /> <!-- Halberd - Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="27000000" /> <!-- Adena -->
+		<production id="343" count="1" /> <!-- Headless Arrow -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="7884" count="1" /> <!-- Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8108" count="1" /> <!-- Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8109" count="1" /> <!-- Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8110" count="1" /> <!-- Infernal Master -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11049" count="1" /> <!-- Infernal Master - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11050" count="1" /> <!-- Infernal Master - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11051" count="1" /> <!-- Infernal Master - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11052" count="1" /> <!-- Infernal Master - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="18567400" /> <!-- Adena -->
+		<production id="5705" count="1" /> <!-- Keshanberk*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="18567400" /> <!-- Adena -->
+		<production id="11074" count="1" /> <!-- Keshanberk*Damascus - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5233" count="1" /> <!-- Keshanberk*Keshanberk -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="5704" count="1" /> <!-- Keshanberk*Keshanberk -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11057" count="1" /> <!-- Keshanberk*Keshanberk - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9340" count="1" /> <!-- Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9341" count="1" /> <!-- Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9342" count="1" /> <!-- Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9343" count="1" /> <!-- Lacerator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11075" count="1" /> <!-- Lacerator - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11076" count="1" /> <!-- Lacerator - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11077" count="1" /> <!-- Lacerator - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11078" count="1" /> <!-- Lacerator - Thunder -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21973" count="1" /> <!-- Mardil's Fan -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21974" count="1" /> <!-- Mardil's Fan -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21975" count="1" /> <!-- Mardil's Fan -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21976" count="1" /> <!-- Mardil's Fan -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21977" count="1" /> <!-- Mardil's Fan - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21978" count="1" /> <!-- Mardil's Fan - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21979" count="1" /> <!-- Mardil's Fan - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="21980" count="1" /> <!-- Mardil's Fan - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="2504" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4756" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4757" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4758" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5599" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5600" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5601" count="1" /> <!-- Meteor Shower -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11029" count="1" /> <!-- Meteor Shower - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11030" count="1" /> <!-- Meteor Shower - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11031" count="1" /> <!-- Meteor Shower - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11032" count="1" /> <!-- Meteor Shower - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8682" count="1" /> <!-- Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8800" count="1" /> <!-- Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8801" count="1" /> <!-- Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8802" count="1" /> <!-- Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14331" count="1" /> <!-- Naga Storm -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11133" count="1" /> <!-- Naga Storm - Molar -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11134" count="1" /> <!-- Naga Storm - Molar -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11135" count="1" /> <!-- Naga Storm - Molar -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11136" count="1" /> <!-- Naga Storm - Molar -->
+	</item>
+	<item>
+		<ingredient id="57" count="21300000" /> <!-- Adena -->
+		<production id="304" count="1" /> <!-- Orcish Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="21300000" /> <!-- Adena -->
+		<production id="5629" count="1" /> <!-- Orcish Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="21300000" /> <!-- Adena -->
+		<production id="5630" count="1" /> <!-- Orcish Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="21300000" /> <!-- Adena -->
+		<production id="5631" count="1" /> <!-- Orcish Halberd -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="85" count="1" /> <!-- Phantom Sword -->
+	</item>
+	<item>
+		<ingredient id="57" count="27000000" /> <!-- Adena -->
+		<production id="344" count="1" /> <!-- Proof of Overlord -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9348" count="1" /> <!-- Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9349" count="1" /> <!-- Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9350" count="1" /> <!-- Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9351" count="1" /> <!-- Reaper -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11112" count="1" /> <!-- Reaper - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11113" count="1" /> <!-- Reaper - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11114" count="1" /> <!-- Reaper - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11115" count="1" /> <!-- Reaper - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9360" count="1" /> <!-- Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9361" count="1" /> <!-- Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9362" count="1" /> <!-- Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9363" count="1" /> <!-- Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14341" count="1" /> <!-- Screaming Vengeance -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11145" count="1" /> <!-- Screaming Vengeance - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11146" count="1" /> <!-- Screaming Vengeance - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11147" count="1" /> <!-- Screaming Vengeance - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11148" count="1" /> <!-- Screaming Vengeance - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8684" count="1" /> <!-- Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8806" count="1" /> <!-- Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8807" count="1" /> <!-- Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8808" count="1" /> <!-- Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14333" count="1" /> <!-- Shyeed's Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11157" count="1" /> <!-- Shyeed's Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11158" count="1" /> <!-- Shyeed's Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11159" count="1" /> <!-- Shyeed's Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11160" count="1" /> <!-- Shyeed's Bow - Concentration -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8678" count="1" /> <!-- Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8788" count="1" /> <!-- Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8789" count="1" /> <!-- Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8790" count="1" /> <!-- Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14327" count="1" /> <!-- Sirra's Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11169" count="1" /> <!-- Sirra's Blade - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11170" count="1" /> <!-- Sirra's Blade - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11171" count="1" /> <!-- Sirra's Blade - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11172" count="1" /> <!-- Sirra's Blade - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8685" count="1" /> <!-- Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8809" count="1" /> <!-- Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8810" count="1" /> <!-- Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8811" count="1" /> <!-- Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14334" count="1" /> <!-- Sobekk's Hurricane -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11165" count="1" /> <!-- Sobekk's Hurricane - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11166" count="1" /> <!-- Sobekk's Hurricane - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11167" count="1" /> <!-- Sobekk's Hurricane - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11168" count="1" /> <!-- Sobekk's Hurricane - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="289" count="1" /> <!-- Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5611" count="1" /> <!-- Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5612" count="1" /> <!-- Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5613" count="1" /> <!-- Soul Bow -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11124" count="1" /> <!-- Soul Bow - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11125" count="1" /> <!-- Soul Bow - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11126" count="1" /> <!-- Soul Bow - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11127" count="1" /> <!-- Soul Bow - Clairvoyance -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="236" count="1" /> <!-- Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5617" count="1" /> <!-- Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5618" count="1" /> <!-- Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5619" count="1" /> <!-- Soul Separator -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11116" count="1" /> <!-- Soul Separator - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11117" count="1" /> <!-- Soul Separator - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11118" count="1" /> <!-- Soul Separator - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11119" count="1" /> <!-- Soul Separator - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="7894" count="1" /> <!-- Spiritual Eye -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8147" count="1" /> <!-- Spiritual Eye -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8148" count="1" /> <!-- Spiritual Eye -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="8149" count="1" /> <!-- Spiritual Eye -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11045" count="1" /> <!-- Spiritual Eye - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11046" count="1" /> <!-- Spiritual Eye - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11047" count="1" /> <!-- Spiritual Eye - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11048" count="1" /> <!-- Spiritual Eye - Hail -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8679" count="1" /> <!-- Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8791" count="1" /> <!-- Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8792" count="1" /> <!-- Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8793" count="1" /> <!-- Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14328" count="1" /> <!-- Sword of Ipos -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11161" count="1" /> <!-- Sword of Ipos - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11162" count="1" /> <!-- Sword of Ipos - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11163" count="1" /> <!-- Sword of Ipos - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11164" count="1" /> <!-- Sword of Ipos - Earth -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="149" count="1" /> <!-- Sword of Life -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="151" count="1" /> <!-- Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5641" count="1" /> <!-- Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5642" count="1" /> <!-- Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5643" count="1" /> <!-- Sword of Miracles -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11108" count="1" /> <!-- Sword of Miracles - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11109" count="1" /> <!-- Sword of Miracles - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11110" count="1" /> <!-- Sword of Miracles - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11111" count="1" /> <!-- Sword of Miracles - Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="80" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4720" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4721" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="4722" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5635" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5636" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="5637" count="1" /> <!-- Tallum Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11058" count="1" /> <!-- Tallum Blade - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11059" count="1" /> <!-- Tallum Blade - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11060" count="1" /> <!-- Tallum Blade - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11061" count="1" /> <!-- Tallum Blade - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8938" count="1" /> <!-- Tallum Blade*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14338" count="1" /> <!-- Tallum Blade*Damascus -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11181" count="1" /> <!-- Tallum Blade*Damascus - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="305" count="1" /> <!-- Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5632" count="1" /> <!-- Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5633" count="1" /> <!-- Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="5634" count="1" /> <!-- Tallum Glaive -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11128" count="1" /> <!-- Tallum Glaive - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11129" count="1" /> <!-- Tallum Glaive - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11130" count="1" /> <!-- Tallum Glaive - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11131" count="1" /> <!-- Tallum Glaive - On Fire -->
+	</item>
+	<item>
+		<ingredient id="57" count="18300000" /> <!-- Adena -->
+		<production id="147" count="1" /> <!-- Tear of Darkness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8686" count="1" /> <!-- Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8812" count="1" /> <!-- Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8813" count="1" /> <!-- Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8814" count="1" /> <!-- Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14335" count="1" /> <!-- Themis' Tongue -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11182" count="1" /> <!-- Themis' Tongue - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11183" count="1" /> <!-- Themis' Tongue - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11184" count="1" /> <!-- Themis' Tongue - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11185" count="1" /> <!-- Themis' Tongue - Cleverness -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8683" count="1" /> <!-- Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8803" count="1" /> <!-- Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8804" count="1" /> <!-- Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="8805" count="1" /> <!-- Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14332" count="1" /> <!-- Tiphon's Spear -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11177" count="1" /> <!-- Tiphon's Spear - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11178" count="1" /> <!-- Tiphon's Spear - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11179" count="1" /> <!-- Tiphon's Spear - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11180" count="1" /> <!-- Tiphon's Spear - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9344" count="1" /> <!-- Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9345" count="1" /> <!-- Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9346" count="1" /> <!-- Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="9347" count="1" /> <!-- Undertaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11084" count="1" /> <!-- Undertaker - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11085" count="1" /> <!-- Undertaker - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11086" count="1" /> <!-- Undertaker - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="20741000" /> <!-- Adena -->
+		<production id="11087" count="1" /> <!-- Undertaker - Evil Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9328" count="1" /> <!-- White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9329" count="1" /> <!-- White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9330" count="1" /> <!-- White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="9331" count="1" /> <!-- White Lightning -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11025" count="1" /> <!-- White Lightning - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11026" count="1" /> <!-- White Lightning - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11027" count="1" /> <!-- White Lightning - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="14098000" /> <!-- Adena -->
+		<production id="11028" count="1" /> <!-- White Lightning - Destruction -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9352" count="1" /> <!-- Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9353" count="1" /> <!-- Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9354" count="1" /> <!-- Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="9355" count="1" /> <!-- Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="14339" count="1" /> <!-- Éclair Bijou -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11173" count="1" /> <!-- Éclair Bijou - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11174" count="1" /> <!-- Éclair Bijou - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11175" count="1" /> <!-- Éclair Bijou - Landslide -->
+	</item>
+	<item>
+		<ingredient id="57" count="26968400" /> <!-- Adena -->
+		<production id="11176" count="1" /> <!-- Éclair Bijou - Landslide -->
+	</item>
+</list>

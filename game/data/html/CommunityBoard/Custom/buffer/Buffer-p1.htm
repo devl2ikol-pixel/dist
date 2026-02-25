@@ -1,0 +1,92 @@
+<html><body>
+<center>
+
+<table width=573 height=495 border=0 cellpadding=0 cellspacing=0 background="L2UI_CT1.Windows_DF_TooltipBG">
+<tr><td align=center valign=top>
+	<center>
+										<table>
+											<tr><td height=10></td></tr>
+											<tr>
+												<td align=center>
+													<font name="hs16">Профиль</font>
+												</td>
+											</tr>
+										</table>
+										</center> 
+<br><br><br><br><br><br><br><br><br><br><br><br> 
+
+<!-- TOP: Save / Use -->
+<table width=555 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td align=center>
+      <button value="Сохранить"
+        action="bypass -h _bbsbuffer;saveprofile"
+        width=112 height=25 back="L2EssenceCommunity.btn_normal_over" fore="L2EssenceCommunity.btn_normal"></button>
+    </td> 
+	</tr>
+</table>
+
+<br>
+
+<!-- INFO: Target / Profile -->
+<table width=555 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td width=277 align=right>
+      Цель: <font color="cc6466">%target%</font>
+    </td>
+    <td width=1></td>
+    <td width=277 align=left>
+      Профиль: <font color="cc6466">%profile%</font>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- CREATE ROW: Player / Create / Pet -->
+<table width=555 border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td width=185 align=center>
+      <button value="Игрок"
+        action="bypass -h _bbsbuffer;target;player"
+        width=112 height=25 back="L2EssenceCommunity.btn_normal_over" fore="L2EssenceCommunity.btn_normal"></button>
+    </td>
+	  <td width=185 align=center>
+      <button value="Создать"
+        action="bypass -h _bbsbuffer;createprofile $name"
+        width=112 height=25 back="L2EssenceCommunity.btn_normal_over" fore="L2EssenceCommunity.btn_normal"></button>
+    </td>
+ <td width=185 align=center>
+      <button value="Питомец"
+        action="bypass -h _bbsbuffer;target;pet"
+        width=112 height=25 back="L2EssenceCommunity.btn_normal_over" fore="L2EssenceCommunity.btn_normal"></button>
+    </td>
+  </tr> 
+</table><br><br>
+<edit var="name" width=120 height=15 length="32" />
+
+<br>
+
+<font color="FF0000">%err%</font>
+
+<br><br>
+
+Ваши профили
+<br><br>
+
+<table width=555 border=0 cellpadding=0 cellspacing=0>
+  %profilelist%
+</table>
+
+<br>
+
+
+<button value="Назад"
+  action="bypass -h _bbsbuffer;chat;0"
+ width=112 height=25 back="L2EssenceCommunity.btn_normal_over" fore="L2EssenceCommunity.btn_normal"></button>
+
+</td></tr>
+</table> 
+					</center>
+</center>
+</body></html>

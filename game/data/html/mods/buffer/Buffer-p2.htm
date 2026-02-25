@@ -1,0 +1,56 @@
+﻿<html>
+<head><title>Buffer - Profile</title></head>
+<body>
+<center>
+
+<table width=300 height=300 >
+<tr>
+<td align=center valign=top>
+
+<br><br>
+
+Профиль <font color="LEVEL">%profile%</font><br1>
+Цель: <font color="LEVEL">%target%</font>
+
+<br><br>
+
+<!-- ВАЖНО: без table вокруг -->
+%buflist%
+
+<br><br>
+
+<table width=260>
+<tr>
+<td align=center>
+<button action="bypass -h npc_%objectId%_UseProfile" value="Использовать"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+
+<td align=center>
+<button action="bypass -h npc_%objectId%_DeleteProfile" value="Удалить"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+</tr>
+
+<tr>
+<td align=center>
+<button action="bypass -h npc_%objectId%_ClearProfile" value="Очистить"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+
+<td align=center>
+<button action="bypass -h npc_%objectId%_Profile" value="Назад"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+</tr>
+</table>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</center>
+</body>
+</html>

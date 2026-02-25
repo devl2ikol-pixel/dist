@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_24">
+		<group>
+			<npc id="30990" x="111449" y="219409" z="-3548" heading="46761" respawnTime="60sec" /> <!-- Lottery Ticket Seller -->
+			<npc id="50000" x="111313" y="219410" z="-3548" heading="48380" respawnTime="60sec" /> <!-- Buffer - TEST Buffer -->
+			<npc id="1002001" x="111185" y="219314" z="-3549" heading="50422" respawnTime="60sec" /> <!-- Donate Manager - Donation Services -->
+		</group>
+	</spawn>
+</list>

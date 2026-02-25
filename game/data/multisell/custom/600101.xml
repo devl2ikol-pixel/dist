@@ -1,0 +1,2659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Оружие D -->
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Bastard Sword -->
+		<production count="1" id="69" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Claymore -->
+		<production count="1" id="70" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="110160" id="57" />
+		<!-- Sword of Magic -->
+		<production count="1" id="83" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Tomahawk -->
+		<production count="1" id="86" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Morning Star -->
+		<production count="1" id="88" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Goat Head Staff -->
+		<production count="1" id="90" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Winged Spear -->
+		<production count="1" id="93" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Scroll of Wisdom -->
+		<production count="1" id="101" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Saber -->
+		<production count="1" id="123" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Two-handed Sword -->
+		<production count="1" id="124" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Spinebone Sword -->
+		<production count="1" id="125" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Artisan's Sword -->
+		<production count="1" id="126" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Crimson Sword -->
+		<production count="1" id="127" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Knight's Sword -->
+		<production count="1" id="128" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Sword of Revolution -->
+		<production count="1" id="129" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Elven Sword -->
+		<production count="1" id="130" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="110160" id="57" />
+		<!-- Sword of Mystic -->
+		<production count="1" id="143" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="110160" id="57" />
+		<!-- Sword of Occult -->
+		<production count="1" id="144" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Hand Axe -->
+		<production count="1" id="156" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Spiked Club -->
+		<production count="1" id="157" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Tarbar -->
+		<production count="1" id="158" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Bonebreaker -->
+		<production count="1" id="159" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Heavy Mace -->
+		<production count="1" id="166" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Scalpel -->
+		<production count="1" id="167" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Work Hammer -->
+		<production count="1" id="168" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Skull Breaker -->
+		<production count="1" id="169" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Heavy Bone Club -->
+		<production count="1" id="172" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Bone Staff -->
+		<production count="1" id="178" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Mace of Prayer -->
+		<production count="1" id="179" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Mace of Judgment -->
+		<production count="1" id="180" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Mace of Miracle -->
+		<production count="1" id="181" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Doom Hammer -->
+		<production count="1" id="182" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Mystic Staff -->
+		<production count="1" id="183" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Conjuror's Staff -->
+		<production count="1" id="184" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Staff of Mana -->
+		<production count="1" id="185" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Staff of Magic -->
+		<production count="1" id="186" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Atuba Hammer -->
+		<production count="1" id="187" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Ghost Staff -->
+		<production count="1" id="188" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Staff of Life -->
+		<production count="1" id="189" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Atuba Mace -->
+		<production count="1" id="190" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Crafted Dagger -->
+		<production count="1" id="220" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Assassin Knife -->
+		<production count="1" id="221" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Poniard Dagger -->
+		<production count="1" id="222" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Kukuri -->
+		<production count="1" id="223" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Maingauche -->
+		<production count="1" id="224" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Mithril Dagger -->
+		<production count="1" id="225" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Dagger of Mana -->
+		<production count="1" id="238" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Mystic Knife -->
+		<production count="1" id="239" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Conjurer's Knife -->
+		<production count="1" id="240" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Shilen Knife -->
+		<production count="1" id="241" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Bagh-Nakh -->
+		<production count="1" id="258" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Single-Edged Jamadhr -->
+		<production count="1" id="259" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Triple-Edged Jamadhr -->
+		<production count="1" id="260" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Bich'Hwa -->
+		<production count="1" id="261" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Scallop Jamadhr -->
+		<production count="1" id="262" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Reinforced Bow -->
+		<production count="1" id="274" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Longbow -->
+		<production count="1" id="275" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Elven Bow -->
+		<production count="1" id="276" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Dark Elven Bow -->
+		<production count="1" id="277" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Gastraphetes -->
+		<production count="1" id="278" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Reinforced Longbow -->
+		<production count="1" id="279" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Light Bow -->
+		<production count="1" id="280" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Trident -->
+		<production count="1" id="291" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Pike -->
+		<production count="1" id="292" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- War Hammer -->
+		<production count="1" id="293" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- War Pick -->
+		<production count="1" id="294" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Dwarven Trident -->
+		<production count="1" id="295" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Dwarven Pike -->
+		<production count="1" id="296" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Glaive -->
+		<production count="1" id="297" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Branch of Life -->
+		<production count="1" id="312" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Temptation of Abyss -->
+		<production count="1" id="313" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Proof of Revenge -->
+		<production count="1" id="314" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Divine Tome -->
+		<production count="1" id="315" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Sage's Blood -->
+		<production count="1" id="316" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Tome of Blood -->
+		<production count="1" id="317" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Crucifix of Blood -->
+		<production count="1" id="318" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="280000" id="57" />
+		<!-- Eye of Infinity -->
+		<production count="1" id="319" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="304000" id="57" />
+		<!-- Blue Crystal Skull -->
+		<production count="1" id="320" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="234380" id="57" />
+		<!-- Demon's Fangs -->
+		<production count="1" id="321" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="360000" id="57" />
+		<!-- Vajra Wand -->
+		<production count="1" id="322" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="360000" id="57" />
+		<!-- Ancient Reagent -->
+		<production count="1" id="323" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7160" id="57" />
+		<!-- 0 -->
+		<production count="1" id="749" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Royal Guard Spear -->
+		<production count="1" id="1376" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Silenos Blowgun -->
+		<production count="1" id="1471" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Dreadbane -->
+		<production count="1" id="1472" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Cursed Maingauche -->
+		<production count="1" id="1660" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Elven Long Sword -->
+		<production count="1" id="2499" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="409000" id="57" />
+		<!-- Lizardspear -->
+		<production count="1" id="2507" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="134880" id="57" />
+		<!-- Saber*Saber -->
+		<production count="1" id="2516" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="163560" id="57" />
+		<!-- Saber*Bastard Sword -->
+		<production count="1" id="2517" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="163560" id="57" />
+		<!-- Saber*Spinebone Sword -->
+		<production count="1" id="2518" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="163560" id="57" />
+		<!-- Saber*Artisan's Sword -->
+		<production count="1" id="2519" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="163560" id="57" />
+		<!-- Saber*Knight's Sword -->
+		<production count="1" id="2520" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Saber*Crimson Sword -->
+		<production count="1" id="2521" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Saber*Elven Sword -->
+		<production count="1" id="2522" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Bastard Sword*Bastard Sword -->
+		<production count="1" id="2525" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Bastard Sword*Spinebone Sword -->
+		<production count="1" id="2526" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Bastard Sword*Artisan's Sword -->
+		<production count="1" id="2527" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Bastard Sword*Knight's Sword -->
+		<production count="1" id="2528" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Bastard Sword*Crimson Sword -->
+		<production count="1" id="2529" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Bastard Sword*Elven Sword -->
+		<production count="1" id="2530" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Spinebone Sword*Spinebone Sword -->
+		<production count="1" id="2533" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Spinebone Sword*Artisan's Sword -->
+		<production count="1" id="2534" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Spinebone Sword*Knight's Sword -->
+		<production count="1" id="2535" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Spinebone Sword*Crimson Sword -->
+		<production count="1" id="2536" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Spinebone Sword*Elven Sword -->
+		<production count="1" id="2537" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Artisan's Sword*Artisan's Sword -->
+		<production count="1" id="2540" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Artisan's Sword*Knight's Sword -->
+		<production count="1" id="2541" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Artisan's Sword*Crimson Sword -->
+		<production count="1" id="2542" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Artisan's Sword*Elven Sword -->
+		<production count="1" id="2543" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Knight's Sword*Knight's Sword -->
+		<production count="1" id="2546" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Knight's Sword*Crimson Sword -->
+		<production count="1" id="2547" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="255140" id="57" />
+		<!-- Knight's Sword*Elven Sword -->
+		<production count="1" id="2548" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Monster Only (Lesser Giant) -->
+		<production count="1" id="3937" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Monster Only (Lesser Giant Wizard's Weapon) -->
+		<production count="1" id="3938" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Monster Only (Bensh) -->
+		<production count="1" id="3939" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Giant Cannon -->
+		<production count="1" id="4028" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Dailaon Knife -->
+		<production count="1" id="5127" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Crokian Blade -->
+		<production count="1" id="5128" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Doll Knife -->
+		<production count="1" id="5129" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Nos Sword -->
+		<production count="1" id="5130" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Monster Only (Parhit Staff) -->
+		<production count="1" id="5131" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="81800" id="57" />
+		<!-- Monster Only (Giant Trident) -->
+		<production count="1" id="5132" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Heavy Sword -->
+		<production count="1" id="5285" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="193400" id="57" />
+		<!-- Tomb Guard A -->
+		<production count="1" id="5791" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="193400" id="57" />
+		<!-- Tomb Guard B -->
+		<production count="1" id="5792" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="193400" id="57" />
+		<!-- Tomb Guard A -->
+		<production count="1" id="5795" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="193400" id="57" />
+		<!-- Tomb Guard B -->
+		<production count="1" id="5796" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="100000" id="57" />
+		<!-- Corroded Albatross Rod -->
+		<production count="1" id="6530" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="360000" id="57" />
+		<!-- Monster Only (Vampire Warrior) -->
+		<production count="1" id="6723" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Steel Sword -->
+		<production count="1" id="7880" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Lesser Giant's Sword -->
+		<production count="1" id="7881" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Priest Sword -->
+		<production count="1" id="7885" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Sword of Magic Fog -->
+		<production count="1" id="7886" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Priest Mace -->
+		<production count="1" id="7890" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Lesser Giant's Hammer -->
+		<production count="1" id="7896" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Rapier -->
+		<production count="1" id="9209" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Talwar -->
+		<production count="1" id="9210" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Talwar -->
+		<production count="1" id="9211" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63000" id="57" />
+		<!-- Field Gun -->
+		<production count="1" id="9212" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Fleuret -->
+		<production count="1" id="9213" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Fleuret -->
+		<production count="1" id="9214" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Fleuret -->
+		<production count="1" id="9215" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Military Talwar -->
+		<production count="1" id="9216" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Hand Crossbow -->
+		<production count="1" id="9217" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Estoc -->
+		<production count="1" id="9218" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Estoc -->
+		<production count="1" id="9219" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Field Sword -->
+		<production count="1" id="9220" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Crossbow -->
+		<production count="1" id="9221" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Épée -->
+		<production count="1" id="9222" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Katzbalger -->
+		<production count="1" id="9223" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="214800" id="57" />
+		<!-- Arm Breaker -->
+		<production count="1" id="9224" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Grand Épée -->
+		<production count="1" id="9225" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- General's Katzbalger -->
+		<production count="1" id="9226" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="277400" id="57" />
+		<!-- Cranequin -->
+		<production count="1" id="9227" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Hand Crossbow -->
+		<production count="1" id="9995" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Hand Crossbow -->
+		<production count="1" id="9996" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="99100" id="57" />
+		<!-- Fleuret -->
+		<production count="1" id="10003" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Steel Sword -->
+		<production count="1" id="11605" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Reinforced Bow -->
+		<production count="1" id="11606" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Rapier -->
+		<production count="1" id="11607" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Bagh-Nakh -->
+		<production count="1" id="11608" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Proof of Revenge -->
+		<production count="1" id="11609" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Bone Staff -->
+		<production count="1" id="11610" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Priest Sword -->
+		<production count="1" id="11611" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Branch of Life -->
+		<production count="1" id="11612" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Crafted Dagger -->
+		<production count="1" id="11613" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Saber -->
+		<production count="1" id="11614" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Scalpel -->
+		<production count="1" id="11615" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Temptation of Abyss -->
+		<production count="1" id="11616" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Assassin Knife -->
+		<production count="1" id="11617" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Work Hammer -->
+		<production count="1" id="11618" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Scroll of Wisdom -->
+		<production count="1" id="11619" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Talwar -->
+		<production count="1" id="11620" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Talwar -->
+		<production count="1" id="11621" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Trident -->
+		<production count="1" id="11622" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Hand Axe -->
+		<production count="1" id="11623" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Field Gun -->
+		<production count="1" id="11624" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Heavy Sword -->
+		<production count="1" id="11625" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="3492" id="57" />
+		<!-- Common Item - Heavy Mace -->
+		<production count="1" id="11626" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Mace of Prayer -->
+		<production count="1" id="11627" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Knight's Sword -->
+		<production count="1" id="11628" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Dark Elven Bow -->
+		<production count="1" id="11629" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Doom Hammer -->
+		<production count="1" id="11630" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Dwarven Trident -->
+		<production count="1" id="11631" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Longbow -->
+		<production count="1" id="11632" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Staff of Mana -->
+		<production count="1" id="11633" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Mystic Staff -->
+		<production count="1" id="11634" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Bastard Sword -->
+		<production count="1" id="11635" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Spinebone Sword -->
+		<production count="1" id="11636" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Divine Tome -->
+		<production count="1" id="11637" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Mace of Judgment -->
+		<production count="1" id="11638" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Military Talwar -->
+		<production count="1" id="11639" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Elven Bow -->
+		<production count="1" id="11640" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Mace of Miracle -->
+		<production count="1" id="11641" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Single-Edged Jamadhr -->
+		<production count="1" id="11642" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Artisan's Sword -->
+		<production count="1" id="11643" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Conjuror's Staff -->
+		<production count="1" id="11644" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Tomahawk -->
+		<production count="1" id="11645" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Poniard Dagger -->
+		<production count="1" id="11646" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Pike -->
+		<production count="1" id="11647" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Fleuret -->
+		<production count="1" id="11648" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Fleuret -->
+		<production count="1" id="11649" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Fleuret -->
+		<production count="1" id="11650" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Fleuret -->
+		<production count="1" id="11651" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Hand Crossbow -->
+		<production count="1" id="11652" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Hand Crossbow -->
+		<production count="1" id="11653" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5204" id="57" />
+		<!-- Common Item - Hand Crossbow -->
+		<production count="1" id="11654" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5724" id="57" />
+		<!-- Common Item - Sword of Magic -->
+		<production count="1" id="11655" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5724" id="57" />
+		<!-- Common Item - Sword of Mystic -->
+		<production count="1" id="11656" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="5724" id="57" />
+		<!-- Common Item - Sword of Occult -->
+		<production count="1" id="11657" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="6848" id="57" />
+		<!-- Common Item - Saber*Saber -->
+		<production count="1" id="11658" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Gastraphetes -->
+		<production count="1" id="11659" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Shilen Knife -->
+		<production count="1" id="11660" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Dwarven Pike -->
+		<production count="1" id="11661" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Dagger of Mana -->
+		<production count="1" id="11662" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Staff of Magic -->
+		<production count="1" id="11663" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Mystic Knife -->
+		<production count="1" id="11664" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Triple-Edged Jamadhr -->
+		<production count="1" id="11665" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Spiked Club -->
+		<production count="1" id="11666" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Two-handed Sword -->
+		<production count="1" id="11667" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Estoc -->
+		<production count="1" id="11668" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Estoc -->
+		<production count="1" id="11669" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Elven Sword -->
+		<production count="1" id="11670" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - War Hammer -->
+		<production count="1" id="11671" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Conjuror's Knife -->
+		<production count="1" id="11672" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Kukuri -->
+		<production count="1" id="11673" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Crossbow -->
+		<production count="1" id="11674" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Crimson Sword -->
+		<production count="1" id="11675" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Tome of Blood -->
+		<production count="1" id="11676" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Field Sword -->
+		<production count="1" id="11677" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7480" id="57" />
+		<!-- Common Item - Sage's Blood -->
+		<production count="1" id="11678" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="8142" id="57" />
+		<!-- Common Item - Saber*Knight's Sword -->
+		<production count="1" id="11679" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="8142" id="57" />
+		<!-- Common Item - Saber*Bastard Sword -->
+		<production count="1" id="11680" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="8142" id="57" />
+		<!-- Common Item - Saber*Spinebone Sword -->
+		<production count="1" id="11681" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="8142" id="57" />
+		<!-- Common Item - Saber*Artisan's Sword -->
+		<production count="1" id="11682" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Reinforced Longbow -->
+		<production count="1" id="11683" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Knight's Sword*Knight's Sword -->
+		<production count="1" id="11684" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Maingauche -->
+		<production count="1" id="11685" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Morning Star -->
+		<production count="1" id="11686" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Bastard Sword*Knight's Sword -->
+		<production count="1" id="11687" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Bastard Sword*Bastard Sword -->
+		<production count="1" id="11688" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Bastard Sword*Spinebone Sword -->
+		<production count="1" id="11689" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Bastard Sword*Artisan's Sword -->
+		<production count="1" id="11690" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Bich'Hwa -->
+		<production count="1" id="11691" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Priest Mace -->
+		<production count="1" id="11692" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Goat Head Staff -->
+		<production count="1" id="11693" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Saber*Elven Sword -->
+		<production count="1" id="11694" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Saber*Crimson Sword -->
+		<production count="1" id="11695" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Sword of Magic Fog -->
+		<production count="1" id="11696" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Skull Breaker -->
+		<production count="1" id="11697" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Spinebone Sword*Knight's Sword -->
+		<production count="1" id="11698" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Spinebone Sword*Spinebone Sword -->
+		<production count="1" id="11699" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Spinebone Sword*Artisan's Sword -->
+		<production count="1" id="11700" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Arm Breaker -->
+		<production count="1" id="11701" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Épée -->
+		<production count="1" id="11702" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Winged Spear -->
+		<production count="1" id="11703" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Artisan's Sword*Knight's Sword -->
+		<production count="1" id="11704" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Artisan's Sword*Artisan's Sword -->
+		<production count="1" id="11705" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Cursed Maingauche -->
+		<production count="1" id="11706" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Katzbalger -->
+		<production count="1" id="11707" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Tarbar -->
+		<production count="1" id="11708" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Crucifix of Blood -->
+		<production count="1" id="11709" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Lesser Giant's Sword -->
+		<production count="1" id="11710" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Lesser Giant's Hammer -->
+		<production count="1" id="11711" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - War Pick -->
+		<production count="1" id="11712" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Heavy Bone Club -->
+		<production count="1" id="11713" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="10410" id="57" />
+		<!-- Common Item - Sword of Revolution -->
+		<production count="1" id="11714" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="11262" id="57" />
+		<!-- Common Item - Demon's Fangs -->
+		<production count="1" id="11715" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Knight's Sword*Elven Sword -->
+		<production count="1" id="11716" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Knight's Sword*Crimson Sword -->
+		<production count="1" id="11717" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Bastard Sword*Elven Sword -->
+		<production count="1" id="11718" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Bastard Sword*Crimson Sword -->
+		<production count="1" id="11719" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Spinebone Sword*Elven Sword -->
+		<production count="1" id="11720" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Spinebone Sword*Crimson Sword -->
+		<production count="1" id="11721" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Artisan's Sword*Elven Sword -->
+		<production count="1" id="11722" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="12156" id="57" />
+		<!-- Common Item - Artisan's Sword*Crimson Sword -->
+		<production count="1" id="11723" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Grand Épée -->
+		<production count="1" id="11724" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Glaive -->
+		<production count="1" id="11725" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Mithril Dagger -->
+		<production count="1" id="11726" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Bonebreaker -->
+		<production count="1" id="11727" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Light Bow -->
+		<production count="1" id="11728" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Staff of Life -->
+		<production count="1" id="11729" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Scallop Jamadhr -->
+		<production count="1" id="11730" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Atuba Mace -->
+		<production count="1" id="11731" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Atuba Hammer -->
+		<production count="1" id="11732" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Elven Long Sword -->
+		<production count="1" id="11733" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - General's Katzbalger -->
+		<production count="1" id="11734" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Cranequin -->
+		<production count="1" id="11735" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Claymore -->
+		<production count="1" id="11736" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="13116" id="57" />
+		<!-- Common Item - Ghost Staff -->
+		<production count="1" id="11737" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="148700" id="57" />
+		<!-- Monster Only (Death Knight_2hs) -->
+		<production count="1" id="13983" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="1000" id="57" />
+		<!-- Offering Test Ingredient 2 -->
+		<production count="1" id="26312" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Ghost Staff -->
+		<production count="1" id="30440" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Ghost Staff -->
+		<production count="1" id="30441" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Sage's Blood -->
+		<production count="1" id="30449" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Sword of Revolution -->
+		<production count="1" id="30461" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Heavy Mace -->
+		<production count="1" id="30471" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Heavy Sword -->
+		<production count="1" id="30476" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Heavy Bone Club -->
+		<production count="1" id="30477" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Field Gun -->
+		<production count="1" id="30490" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Field Sword -->
+		<production count="1" id="30491" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Hand Axe -->
+		<production count="1" id="30498" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Hand Crossbow -->
+		<production count="1" id="30499" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Hand Crossbow -->
+		<production count="1" id="30500" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Hand Crossbow -->
+		<production count="1" id="30501" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound War Pick -->
+		<production count="1" id="30506" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Lesser Giant's Hammer -->
+		<production count="1" id="30511" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Lesser Giant's Sword -->
+		<production count="1" id="30512" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Tome of Blood -->
+		<production count="1" id="30513" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Crucifix of Blood -->
+		<production count="1" id="30514" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Fleuret -->
+		<production count="1" id="30526" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Fleuret -->
+		<production count="1" id="30527" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Fleuret -->
+		<production count="1" id="30528" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Fleuret -->
+		<production count="1" id="30529" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Pike -->
+		<production count="1" id="30582" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Poniard Dagger -->
+		<production count="1" id="30591" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Trident -->
+		<production count="1" id="30600" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Talwar -->
+		<production count="1" id="30603" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Talwar -->
+		<production count="1" id="30604" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Tomahawk -->
+		<production count="1" id="30605" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Tarbar -->
+		<production count="1" id="30637" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Claymore -->
+		<production count="1" id="30638" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Crimson Sword -->
+		<production count="1" id="30653" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Crossbow -->
+		<production count="1" id="30666" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Cranequin -->
+		<production count="1" id="30667" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Kukuri -->
+		<production count="1" id="30668" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Conjuror's Staff -->
+		<production count="1" id="30677" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Conjuror's Knife -->
+		<production count="1" id="30678" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Katzbalger -->
+		<production count="1" id="30686" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Scroll of Wisdom -->
+		<production count="1" id="30726" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound General's Katzbalger -->
+		<production count="1" id="30733" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Cursed Maingauche -->
+		<production count="1" id="30738" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Artisan's Sword*Crimson Sword -->
+		<production count="1" id="30750" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Artisan's Sword*Artisan's Sword -->
+		<production count="1" id="30751" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Artisan's Sword*Elven Sword -->
+		<production count="1" id="30752" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Artisan's Sword*Knight's Sword -->
+		<production count="1" id="30754" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Artisan's Sword -->
+		<production count="1" id="30755" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Work Hammer -->
+		<production count="1" id="30756" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Winged Spear -->
+		<production count="1" id="30788" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound War Hammer -->
+		<production count="1" id="30801" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Single-Edged Jamadhr -->
+		<production count="1" id="30802" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Mace of Miracle -->
+		<production count="1" id="30827" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Elven Sword -->
+		<production count="1" id="30832" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Elven Bow -->
+		<production count="1" id="30833" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Elven Long Sword -->
+		<production count="1" id="30842" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Elven Long Sword -->
+		<production count="1" id="30843" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Épée -->
+		<production count="1" id="30863" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Estoc -->
+		<production count="1" id="30864" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Estoc -->
+		<production count="1" id="30865" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Assassin Knife -->
+		<production count="1" id="30874" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Military Talwar -->
+		<production count="1" id="30879" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Two-handed Sword -->
+		<production count="1" id="30880" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Arm Breaker -->
+		<production count="1" id="30886" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="58595" id="57" />
+		<!-- Bound Demon's Fangs -->
+		<production count="1" id="30913" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Atuba Hammer -->
+		<production count="1" id="30924" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Atuba Mace -->
+		<production count="1" id="30925" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Mace of Judgment -->
+		<production count="1" id="30975" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Temptation of Abyss -->
+		<production count="1" id="30976" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Divine Tome -->
+		<production count="1" id="30981" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Spinebone Sword*Crimson Sword -->
+		<production count="1" id="30996" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Spinebone Sword*Artisan's Sword -->
+		<production count="1" id="30997" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Spinebone Sword*Elven Sword -->
+		<production count="1" id="30998" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Spinebone Sword*Spinebone Sword -->
+		<production count="1" id="31000" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Spinebone Sword*Knight's Sword -->
+		<production count="1" id="31001" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Spinebone Sword -->
+		<production count="1" id="31002" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Spiked Club -->
+		<production count="1" id="31003" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Skull Breaker -->
+		<production count="1" id="31027" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Scalpel -->
+		<production count="1" id="31032" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Scallop Jamadhr -->
+		<production count="1" id="31033" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="27540" id="57" />
+		<!-- Bound Sword of Occult -->
+		<production count="1" id="31094" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="27540" id="57" />
+		<!-- Bound Sword of Mystic -->
+		<production count="1" id="31099" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Sword of Magic Fog -->
+		<production count="1" id="31104" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="27540" id="57" />
+		<!-- Bound Sword of Magic -->
+		<production count="1" id="31105" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Saber*Crimson Sword -->
+		<production count="1" id="31115" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="40890" id="57" />
+		<!-- Bound Saber*Artisan's Sword -->
+		<production count="1" id="31116" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Saber*Elven Sword -->
+		<production count="1" id="31117" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="40890" id="57" />
+		<!-- Bound Saber*Spinebone Sword -->
+		<production count="1" id="31119" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="33720" id="57" />
+		<!-- Bound Saber*Saber -->
+		<production count="1" id="31120" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="40890" id="57" />
+		<!-- Bound Saber*Bastard Sword -->
+		<production count="1" id="31121" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="40890" id="57" />
+		<!-- Bound Saber*Knight's Sword -->
+		<production count="1" id="31122" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Saber -->
+		<production count="1" id="31123" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Triple-Edged Jamadhr -->
+		<production count="1" id="31124" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Crafted Dagger -->
+		<production count="1" id="31125" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Staff of Life -->
+		<production count="1" id="31143" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Branch of Life -->
+		<production count="1" id="31144" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Goat Head Staff -->
+		<production count="1" id="31149" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Priest Mace -->
+		<production count="1" id="31150" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Priest Sword -->
+		<production count="1" id="31151" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Light Bow -->
+		<production count="1" id="31158" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Light Bow -->
+		<production count="1" id="31159" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Bone Staff -->
+		<production count="1" id="31174" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Bich'Hwa -->
+		<production count="1" id="31175" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Bonebreaker -->
+		<production count="1" id="31219" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Proof of Revenge -->
+		<production count="1" id="31220" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Bastard Sword*Crimson Sword -->
+		<production count="1" id="31246" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Bastard Sword*Artisan's Sword -->
+		<production count="1" id="31247" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Bastard Sword*Elven Sword -->
+		<production count="1" id="31248" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Bastard Sword*Spinebone Sword -->
+		<production count="1" id="31250" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Bastard Sword*Bastard Sword -->
+		<production count="1" id="31251" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Bastard Sword*Knight's Sword -->
+		<production count="1" id="31252" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Bastard Sword -->
+		<production count="1" id="31253" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Bagh-Nakh -->
+		<production count="1" id="31262" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Mystic Staff -->
+		<production count="1" id="31271" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Mystic Knife -->
+		<production count="1" id="31272" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Mithril Dagger -->
+		<production count="1" id="31288" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Morning Star -->
+		<production count="1" id="31294" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Maingauche -->
+		<production count="1" id="31295" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Staff of Magic -->
+		<production count="1" id="31331" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Staff of Mana -->
+		<production count="1" id="31338" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Dagger of Mana -->
+		<production count="1" id="31339" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Longbow -->
+		<production count="1" id="31341" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Rapier -->
+		<production count="1" id="31342" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Dwarven Trident -->
+		<production count="1" id="31371" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Dwarven Pike -->
+		<production count="1" id="31376" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Doom Hammer -->
+		<production count="1" id="31415" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Dark Elven Bow -->
+		<production count="1" id="31453" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Shilen Knife -->
+		<production count="1" id="31502" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Knight's Sword*Crimson Sword -->
+		<production count="1" id="31504" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Knight's Sword*Elven Sword -->
+		<production count="1" id="31505" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="63785" id="57" />
+		<!-- Bound Knight's Sword*Elven Sword -->
+		<production count="1" id="31506" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Knight's Sword*Knight's Sword -->
+		<production count="1" id="31508" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Knight's Sword -->
+		<production count="1" id="31510" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="24775" id="57" />
+		<!-- Bound Mace of Prayer -->
+		<production count="1" id="31512" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Glaive -->
+		<production count="1" id="31513" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="69350" id="57" />
+		<!-- Bound Grand Épée -->
+		<production count="1" id="31539" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="53700" id="57" />
+		<!-- Bound Reinforced Longbow -->
+		<production count="1" id="31559" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Reinforced Bow -->
+		<production count="1" id="31560" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="15750" id="57" />
+		<!-- Bound Steel Sword -->
+		<production count="1" id="31569" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="37175" id="57" />
+		<!-- Bound Gastraphetes -->
+		<production count="1" id="31574" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Dagger of Mana -->
+		<production count="1" id="32348" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Kukuri -->
+		<production count="1" id="32349" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Crimson Sword -->
+		<production count="1" id="32350" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="4955" id="57" />
+		<!-- Fantasy Fleuret -->
+		<production count="1" id="32351" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Two-handed Sword -->
+		<production count="1" id="32352" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="4955" id="57" />
+		<!-- Fantasy Military Talwar -->
+		<production count="1" id="32353" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Gastraphetes -->
+		<production count="1" id="32354" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="4955" id="57" />
+		<!-- Fantasy Hand Crossbow -->
+		<production count="1" id="32355" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Spiked Club -->
+		<production count="1" id="32356" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Staff of Magic -->
+		<production count="1" id="32357" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy War Hammer -->
+		<production count="1" id="32358" />
+	</item>
+	<item>
+		<!-- Adena -->
+		<ingredient count="7435" id="57" />
+		<!-- Fantasy Triple-Edged Jamadhr -->
+		<production count="1" id="32359" />
+	</item>
+</list>

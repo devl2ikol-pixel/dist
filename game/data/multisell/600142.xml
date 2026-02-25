@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Custom multisell 600142.
+	TODO: Fill this list with your items/prices.
+	Note: This file is intentionally left empty (no <item> entries).
+-->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+</list>

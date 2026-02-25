@@ -1,0 +1,114 @@
+﻿<html>
+<head>
+<title>Buffer - Profile</title>
+</head>
+<body>
+
+<center>
+
+<table width=300 height=300 >
+<tr>
+<td align=center>
+
+<br>
+
+<!-- Top buttons -->
+<table width=260>
+<tr>
+
+<td align=center>
+<button value="Сохранить"
+ action="bypass -h npc_%objectId%_SaveProfile"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+
+<td align=center>
+<button value="Использовать"
+ action="bypass -h npc_%objectId%_UseProfileStay"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- Info -->
+<table width=260>
+<tr>
+
+<td align=center>
+Цель: <font color="cc6466">%target%</font>
+</td>
+
+<td align=center>
+Профиль: <font color="cc6466">%profile%</font>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Create -->
+<table width=300>
+<tr>
+
+
+<td align=center>
+<button value="Игрок"
+ action="bypass -h npc_%objectId%_Target player"
+width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+ 
+<td align=center>
+<button value="Создать"
+ action="bypass -h npc_%objectId%_CreateProfile $name"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+
+<td align=center>
+<button value="Питомец"
+ action="bypass -h npc_%objectId%_Target pet"
+width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+</td>
+</tr>
+</table><table width=260>
+<tr>
+
+<td align=center>
+<edit var="name" width=90 height=15 /><br>
+
+</td> 
+</tr>
+</table>
+
+<br>
+
+<font color="FF0000">%err%</font>
+
+<br>
+
+Ваши профили
+<br>
+<br>
+<br>
+<table width=260>
+%profilelist%
+</table>
+
+<br>
+
+<button value="Назад"
+ action="bypass -h npc_%objectId%_Chat 0"
+ width=90 height=20 back="L2EssenceCommunity.raids_btn_small_over" fore="L2EssenceCommunity.raids_btn_small">
+
+<br>
+
+</td>
+</tr>
+</table>
+
+</center>
+
+</body>
+</html>
