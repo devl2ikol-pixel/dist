@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Custom multisell 600115: Master Smith materials -->
+<list applyTaxes="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="5557" count="1" /> <!-- Bead Ornament -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="5558" count="1" /> <!-- Fir Tree Branch -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="5559" count="1" /> <!-- Flower Pot -->
+	</item>
+	<item>
+		<ingredient id="57" count="1" /> <!-- Adena -->
+		<production id="5556" count="1" /> <!-- Star Ornament -->
+	</item>
+	<item>
+		<ingredient id="57" count="10" /> <!-- Adena -->
+		<production id="1678" count="1" /> <!-- (Not in Use) Thread -->
+	</item>
+	<item>
+		<ingredient id="57" count="20" /> <!-- Adena -->
+		<production id="1676" count="1" /> <!-- Animal Bone -->
+	</item>
+	<item>
+		<ingredient id="57" count="20" /> <!-- Adena -->
+		<production id="1864" count="1" /> <!-- Stem -->
+	</item>
+	<item>
+		<ingredient id="57" count="40" /> <!-- Adena -->
+		<production id="1675" count="1" /> <!-- Animal Blood -->
+	</item>
+	<item>
+		<ingredient id="57" count="40" /> <!-- Adena -->
+		<production id="1680" count="1" /> <!-- Animal Hide -->
+	</item>
+	<item>
+		<ingredient id="57" count="40" /> <!-- Adena -->
+		<production id="1677" count="1" /> <!-- Hot Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="40" /> <!-- Adena -->
+		<production id="1865" count="1" /> <!-- Varnish -->
+	</item>
+	<item>
+		<ingredient id="57" count="45" /> <!-- Adena -->
+		<production id="1692" count="1" /> <!-- (Not in Use) Cord -->
+	</item>
+	<item>
+		<ingredient id="57" count="50" /> <!-- Adena -->
+		<production id="6908" count="1" /> <!-- Corroded Fish Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="61" /> <!-- Adena -->
+		<production id="1925" count="1" /> <!-- Leather Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="62" /> <!-- Adena -->
+		<production id="1921" count="1" /> <!-- Leather Shoe Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="80" /> <!-- Adena -->
+		<production id="1687" count="1" /> <!-- (Not in Use) Coarse Bone Powder -->
+	</item>
+	<item>
+		<ingredient id="57" count="80" /> <!-- Adena -->
+		<production id="1674" count="1" /> <!-- Twig of Treant -->
+	</item>
+	<item>
+		<ingredient id="57" count="87" /> <!-- Adena -->
+		<production id="1712" count="1" /> <!-- Leather Shoe Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="92" /> <!-- Adena -->
+		<production id="36526" count="1" /> <!-- Fiber -->
+	</item>
+	<item>
+		<ingredient id="57" count="95" /> <!-- Adena -->
+		<production id="1896" count="1" /> <!-- Necklace of Anguish Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="98" /> <!-- Adena -->
+		<production id="1923" count="1" /> <!-- Leather Stocking Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="8353" count="1" /> <!-- Corroded Green Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="34994" count="1" /> <!-- Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="35995" count="1" /> <!-- Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="8658" count="1" /> <!-- Mysterious Solvent -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="1868" count="1" /> <!-- Thread -->
+	</item>
+	<item>
+		<ingredient id="57" count="100" /> <!-- Adena -->
+		<production id="36516" count="1" /> <!-- Worn Leather -->
+	</item>
+	<item>
+		<ingredient id="57" count="113" /> <!-- Adena -->
+		<production id="1717" count="1" /> <!-- Leather Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="124" /> <!-- Adena -->
+		<production id="1924" count="1" /> <!-- Leather Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="129" /> <!-- Adena -->
+		<production id="1714" count="1" /> <!-- Leather Stocking Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="130" /> <!-- Adena -->
+		<production id="36556" count="1" /> <!-- Accessory Gem (Low-grade) -->
+	</item>
+	<item>
+		<ingredient id="57" count="150" /> <!-- Adena -->
+		<production id="1872" count="1" /> <!-- Animal Bone -->
+	</item>
+	<item>
+		<ingredient id="57" count="150" /> <!-- Adena -->
+		<production id="1867" count="1" /> <!-- Animal Skin -->
+	</item>
+	<item>
+		<ingredient id="57" count="150" /> <!-- Adena -->
+		<production id="1679" count="1" /> <!-- Bronze -->
+	</item>
+	<item>
+		<ingredient id="57" count="156" /> <!-- Adena -->
+		<production id="1930" count="1" /> <!-- Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="157" /> <!-- Adena -->
+		<production id="1922" count="1" /> <!-- Leather Tunic Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="157" /> <!-- Adena -->
+		<production id="1704" count="1" /> <!-- Stone of Hatred -->
+	</item>
+	<item>
+		<ingredient id="57" count="168" /> <!-- Adena -->
+		<production id="1897" count="1" /> <!-- Necklace of Wisdom Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="200" /> <!-- Adena -->
+		<production id="1871" count="1" /> <!-- Charcoal -->
+	</item>
+	<item>
+		<ingredient id="57" count="200" /> <!-- Adena -->
+		<production id="1870" count="1" /> <!-- Coal -->
+	</item>
+	<item>
+		<ingredient id="57" count="200" /> <!-- Adena -->
+		<production id="6911" count="1" /> <!-- Corroded Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="200" /> <!-- Adena -->
+		<production id="8359" count="1" /> <!-- Corroded Jade Colored Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="200" /> <!-- Adena -->
+		<production id="1869" count="1" /> <!-- Iron Ore -->
+	</item>
+	<item>
+		<ingredient id="57" count="220" /> <!-- Adena -->
+		<production id="1684" count="1" /> <!-- Durable Stem -->
+	</item>
+	<item>
+		<ingredient id="57" count="226" /> <!-- Adena -->
+		<production id="1716" count="1" /> <!-- Leather Glove Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="240" /> <!-- Adena -->
+		<production id="2508" count="1" /> <!-- Cursed Bone -->
+	</item>
+	<item>
+		<ingredient id="57" count="240" /> <!-- Adena -->
+		<production id="1903" count="1" /> <!-- Elven Ring Piece -->
+	</item>
+	<item>
+		<ingredient id="57" count="240" /> <!-- Adena -->
+		<production id="1715" count="1" /> <!-- Leather Helmet Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="250" /> <!-- Adena -->
+		<production id="6909" count="1" /> <!-- Corroded Greater Fish Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="250" /> <!-- Adena -->
+		<production id="1785" count="1" /> <!-- Soulstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="252" /> <!-- Adena -->
+		<production id="1932" count="1" /> <!-- Bone Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="256" /> <!-- Adena -->
+		<production id="1899" count="1" /> <!-- Necklace of Devotion Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="258" /> <!-- Adena -->
+		<production id="1705" count="1" /> <!-- Sprig of Wisdom -->
+	</item>
+	<item>
+		<ingredient id="57" count="260" /> <!-- Adena -->
+		<production id="36521" count="1" /> <!-- Iron Ore -->
+	</item>
+	<item>
+		<ingredient id="57" count="261" /> <!-- Adena -->
+		<production id="1713" count="1" /> <!-- Leather Tunic Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="261" /> <!-- Adena -->
+		<production id="1727" count="1" /> <!-- Quality Leather Glove Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="268" /> <!-- Adena -->
+		<production id="1940" count="1" /> <!-- Iron Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="271" /> <!-- Adena -->
+		<production id="1722" count="1" /> <!-- Boot Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="275" /> <!-- Adena -->
+		<production id="1928" count="1" /> <!-- Piece Bone Gaiter Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="278" /> <!-- Adena -->
+		<production id="2929" count="1" /> <!-- Brigandine Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="278" /> <!-- Adena -->
+		<production id="1947" count="1" /> <!-- Kite Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="290" /> <!-- Adena -->
+		<production id="1901" count="1" /> <!-- Tiger's Eye Stone -->
+	</item>
+	<item>
+		<ingredient id="57" count="291" /> <!-- Adena -->
+		<production id="1906" count="1" /> <!-- Mithril Ring Wire -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="1948" count="1" /> <!-- Boots of Strength Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2924" count="1" /> <!-- Brigandine Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2927" count="1" /> <!-- Brigandine Gauntlet Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2925" count="1" /> <!-- Elven Mithril Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2928" count="1" /> <!-- Elven Mithril Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2923" count="1" /> <!-- Manticore Skin Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="2926" count="1" /> <!-- Manticore Skin Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="296" /> <!-- Adena -->
+		<production id="1946" count="1" /> <!-- Rip Gauntlet Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="297" /> <!-- Adena -->
+		<production id="1909" count="1" /> <!-- Aquastone Ring Wire -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="1689" count="1" /> <!-- (Not in Use) Leather -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="1690" count="1" /> <!-- Bowstring -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="8355" count="1" /> <!-- Corroded Blue Colored Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="6912" count="1" /> <!-- Corroded Shiny Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="6915" count="1" /> <!-- Corroded Thin Fish Bone -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="1866" count="1" /> <!-- Suede -->
+	</item>
+	<item>
+		<ingredient id="57" count="300" /> <!-- Adena -->
+		<production id="36531" count="1" /> <!-- Thread -->
+	</item>
+	<item>
+		<ingredient id="57" count="306" /> <!-- Adena -->
+		<production id="1931" count="1" /> <!-- Leather Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="306" /> <!-- Adena -->
+		<production id="1934" count="1" /> <!-- Quality Leather Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="310" /> <!-- Adena -->
+		<production id="1929" count="1" /> <!-- Durable Leather Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="325" /> <!-- Adena -->
+		<production id="1884" count="1" /> <!-- Cord -->
+	</item>
+	<item>
+		<ingredient id="57" count="340" /> <!-- Adena -->
+		<production id="1933" count="1" /> <!-- Dark Stocking Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="353" /> <!-- Adena -->
+		<production id="2934" count="1" /> <!-- Plate Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="353" /> <!-- Adena -->
+		<production id="1956" count="1" /> <!-- Square Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="1957" count="1" /> <!-- Assault Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="1949" count="1" /> <!-- Mithril Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="1963" count="1" /> <!-- Ogre Power Gauntlet Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="2932" count="1" /> <!-- Plate Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="2933" count="1" /> <!-- Sage's Worn Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="359" /> <!-- Adena -->
+		<production id="2931" count="1" /> <!-- Salamander Skin Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="364" /> <!-- Adena -->
+		<production id="1723" count="1" /> <!-- Leather Boot Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="366" /> <!-- Adena -->
+		<production id="1900" count="1" /> <!-- Necklace Chain of Magic -->
+	</item>
+	<item>
+		<ingredient id="57" count="372" /> <!-- Adena -->
+		<production id="1912" count="1" /> <!-- Ring of Protection Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="390" /> <!-- Adena -->
+		<production id="1898" count="1" /> <!-- Blue Diamond Necklace Gem -->
+	</item>
+	<item>
+		<ingredient id="57" count="391" /> <!-- Adena -->
+		<production id="36546" count="1" /> <!-- Weapon Fragment (Low-grade) -->
+	</item>
+	<item>
+		<ingredient id="57" count="395" /> <!-- Adena -->
+		<production id="1902" count="1" /> <!-- Elven Earring Beads -->
+	</item>
+	<item>
+		<ingredient id="57" count="396" /> <!-- Adena -->
+		<production id="1926" count="1" /> <!-- Piece Bone Breastplate Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="400" /> <!-- Adena -->
+		<production id="8354" count="1" /> <!-- Corroded Yellow Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="400" /> <!-- Adena -->
+		<production id="1683" count="1" /> <!-- Mithril -->
+	</item>
+	<item>
+		<ingredient id="57" count="400" /> <!-- Adena -->
+		<production id="3031" count="1" /> <!-- Spirit Ore -->
+	</item>
+	<item>
+		<ingredient id="57" count="400" /> <!-- Adena -->
+		<production id="36536" count="1" /> <!-- Worn Leather Braid -->
+	</item>
+	<item>
+		<ingredient id="57" count="402" /> <!-- Adena -->
+		<production id="1711" count="1" /> <!-- Claw of Leopard -->
+	</item>
+	<item>
+		<ingredient id="57" count="412" /> <!-- Adena -->
+		<production id="1905" count="1" /> <!-- Onyx Beast's Eye Earring Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="423" /> <!-- Adena -->
+		<production id="1908" count="1" /> <!-- Moonstone Earring Wire -->
+	</item>
+	<item>
+		<ingredient id="57" count="429" /> <!-- Adena -->
+		<production id="1904" count="1" /> <!-- Elven Necklace Beads -->
+	</item>
+	<item>
+		<ingredient id="57" count="443" /> <!-- Adena -->
+		<production id="36551" count="1" /> <!-- Armor Fragment (Low-grade) -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2941" count="1" /> <!-- Boots of Seal Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2937" count="1" /> <!-- Chain Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2943" count="1" /> <!-- Chain Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2940" count="1" /> <!-- Dwarven Chain Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2938" count="1" /> <!-- Karmian Boot Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2944" count="1" /> <!-- Karmian Glove Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2939" count="1" /> <!-- Plated Leather Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="1958" count="1" /> <!-- Reinforced Mithril Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="445" /> <!-- Adena -->
+		<production id="2942" count="1" /> <!-- Reinforced Mithril Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="450" /> <!-- Adena -->
+		<production id="6916" count="1" /> <!-- Corroded Thick Fish Bone -->
+	</item>
+	<item>
+		<ingredient id="57" count="454" /> <!-- Adena -->
+		<production id="1915" count="1" /> <!-- Ring of Ages Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="456" /> <!-- Adena -->
+		<production id="1939" count="1" /> <!-- Mithril Banded Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="466" /> <!-- Adena -->
+		<production id="1937" count="1" /> <!-- Scale Gaiter Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="471" /> <!-- Adena -->
+		<production id="1706" count="1" /> <!-- Blue Diamond Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="1974" count="1" /> <!-- Crimson Boot Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="2949" count="1" /> <!-- Dwarven Chain Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="2950" count="1" /> <!-- Gloves of Seal Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="1973" count="1" /> <!-- Pa'agrio Hand Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="2948" count="1" /> <!-- Rind Leather Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="476" /> <!-- Adena -->
+		<production id="2951" count="1" /> <!-- Rind Leather Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="480" /> <!-- Adena -->
+		<production id="1686" count="1" /> <!-- Bark of Treant -->
+	</item>
+	<item>
+		<ingredient id="57" count="480" /> <!-- Adena -->
+		<production id="1688" count="1" /> <!-- Refined Steel -->
+	</item>
+	<item>
+		<ingredient id="57" count="489" /> <!-- Adena -->
+		<production id="1936" count="1" /> <!-- White Tunic Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="495" /> <!-- Adena -->
+		<production id="2945" count="1" /> <!-- Chain Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="495" /> <!-- Adena -->
+		<production id="1964" count="1" /> <!-- Eldarake Temper -->
+	</item>
+	<item>
+		<ingredient id="57" count="497" /> <!-- Adena -->
+		<production id="1955" count="1" /> <!-- Chain Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="497" /> <!-- Adena -->
+		<production id="2930" count="1" /> <!-- Plate Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="6913" count="1" /> <!-- Corroded Fish Gem -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="8357" count="1" /> <!-- Corroded Orange Colored Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="1878" count="1" /> <!-- Durable Braid -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="1721" count="1" /> <!-- Durable Leather Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="1696" count="1" /> <!-- Flaming Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="1972" count="1" /> <!-- Knight's Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="500" /> <!-- Adena -->
+		<production id="1873" count="1" /> <!-- Silver Nugget -->
+	</item>
+	<item>
+		<ingredient id="57" count="502" /> <!-- Adena -->
+		<production id="1927" count="1" /> <!-- Durable Leather Shirt Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="504" /> <!-- Adena -->
+		<production id="1943" count="1" /> <!-- Manticore Skin Gaiter Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="504" /> <!-- Adena -->
+		<production id="1945" count="1" /> <!-- Mithril Stocking Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="504" /> <!-- Adena -->
+		<production id="2921" count="1" /> <!-- Mithril Stocking Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="508" /> <!-- Adena -->
+		<production id="1737" count="1" /> <!-- Iron Boots Frame -->
+	</item>
+	<item>
+		<ingredient id="57" count="512" /> <!-- Adena -->
+		<production id="1724" count="1" /> <!-- Skull Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="523" /> <!-- Adena -->
+		<production id="1726" count="1" /> <!-- Quality Leather Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="532" /> <!-- Adena -->
+		<production id="1910" count="1" /> <!-- Aquastone Necklace Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="535" /> <!-- Adena -->
+		<production id="36561" count="1" /> <!-- Cokes -->
+	</item>
+	<item>
+		<ingredient id="57" count="538" /> <!-- Adena -->
+		<production id="1911" count="1" /> <!-- Earring of Protection Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="545" /> <!-- Adena -->
+		<production id="2936" count="1" /> <!-- Chain Hood Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="560" /> <!-- Adena -->
+		<production id="2007" count="1" /> <!-- Bow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="560" /> <!-- Adena -->
+		<production id="2005" count="1" /> <!-- Broadsword Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="560" /> <!-- Adena -->
+		<production id="2947" count="1" /> <!-- Dwarven Chain Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="560" /> <!-- Adena -->
+		<production id="36541" count="1" /> <!-- Steel Wire -->
+	</item>
+	<item>
+		<ingredient id="57" count="560" /> <!-- Adena -->
+		<production id="2006" count="1" /> <!-- Willow Staff Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="568" /> <!-- Adena -->
+		<production id="1709" count="1" /> <!-- Blood of Manticore -->
+	</item>
+	<item>
+		<ingredient id="57" count="568" /> <!-- Adena -->
+		<production id="1707" count="1" /> <!-- Saint's Molar -->
+	</item>
+	<item>
+		<ingredient id="57" count="575" /> <!-- Adena -->
+		<production id="1907" count="1" /> <!-- Dark Necklace Gem -->
+	</item>
+	<item>
+		<ingredient id="57" count="580" /> <!-- Adena -->
+		<production id="4439" count="1" /> <!-- Avadon Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="580" /> <!-- Adena -->
+		<production id="1695" count="1" /> <!-- Magic Paper -->
+	</item>
+	<item>
+		<ingredient id="57" count="594" /> <!-- Adena -->
+		<production id="1965" count="1" /> <!-- Metal Plate Helmet Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="595" /> <!-- Adena -->
+		<production id="1938" count="1" /> <!-- Mithril Banded Mail Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="600" /> <!-- Adena -->
+		<production id="8358" count="1" /> <!-- Corroded Purple Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="624" /> <!-- Adena -->
+		<production id="4055" count="1" /> <!-- Compound Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="624" /> <!-- Adena -->
+		<production id="1978" count="1" /> <!-- Tower Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="625" /> <!-- Adena -->
+		<production id="1738" count="1" /> <!-- Wide Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="632" /> <!-- Adena -->
+		<production id="1725" count="1" /> <!-- Dark Stocking Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="632" /> <!-- Adena -->
+		<production id="2954" count="1" /> <!-- Theca Leather Boot Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="632" /> <!-- Adena -->
+		<production id="2955" count="1" /> <!-- Theca Leather Glove Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="635" /> <!-- Adena -->
+		<production id="1736" count="1" /> <!-- Iron Boot Binding -->
+	</item>
+	<item>
+		<ingredient id="57" count="646" /> <!-- Adena -->
+		<production id="4050" count="1" /> <!-- Adamantite Ring Wire -->
+	</item>
+	<item>
+		<ingredient id="57" count="654" /> <!-- Adena -->
+		<production id="1971" count="1" /> <!-- Great Helmet Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="658" /> <!-- Adena -->
+		<production id="1913" count="1" /> <!-- Necklace of Protection Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="658" /> <!-- Adena -->
+		<production id="1976" count="1" /> <!-- Rind Leather Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="675" /> <!-- Adena -->
+		<production id="2919" count="1" /> <!-- Brigandine Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="675" /> <!-- Adena -->
+		<production id="2918" count="1" /> <!-- Mithril Scale Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="680" /> <!-- Adena -->
+		<production id="2956" count="1" /> <!-- Compound Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="680" /> <!-- Adena -->
+		<production id="2952" count="1" /> <!-- Demon's Boot Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="680" /> <!-- Adena -->
+		<production id="2953" count="1" /> <!-- Demon's Glove Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="680" /> <!-- Adena -->
+		<production id="1982" count="1" /> <!-- Forgotten Boot Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="680" /> <!-- Adena -->
+		<production id="1981" count="1" /> <!-- Mithril Gauntlet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="690" /> <!-- Adena -->
+		<production id="4101" count="1" /> <!-- Zubei's Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="693" /> <!-- Adena -->
+		<production id="1718" count="1" /> <!-- Black Bone Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="697" /> <!-- Adena -->
+		<production id="2917" count="1" /> <!-- Ring of Seal Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="697" /> <!-- Adena -->
+		<production id="1919" count="1" /> <!-- Sage's Ring Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="700" /> <!-- Adena -->
+		<production id="8352" count="1" /> <!-- Corroded Red Colored Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="700" /> <!-- Adena -->
+		<production id="1895" count="1" /> <!-- Metallic Fiber -->
+	</item>
+	<item>
+		<ingredient id="57" count="712" /> <!-- Adena -->
+		<production id="1914" count="1" /> <!-- Earring of Seal Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="716" /> <!-- Adena -->
+		<production id="2946" count="1" /> <!-- Plated Leather Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="716" /> <!-- Adena -->
+		<production id="1935" count="1" /> <!-- Scale Mail Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="730" /> <!-- Adena -->
+		<production id="1960" count="1" /> <!-- Chain Gaiter Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="731" /> <!-- Adena -->
+		<production id="2966" count="1" /> <!-- Full Plate Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="734" /> <!-- Adena -->
+		<production id="1967" count="1" /> <!-- Plated Leather Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2004" count="1" /> <!-- Adamantite Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2965" count="1" /> <!-- Blessed Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2958" count="1" /> <!-- Divine Boot Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2964" count="1" /> <!-- Divine Glove Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2960" count="1" /> <!-- Drake Leather Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2962" count="1" /> <!-- Drake Leather Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2961" count="1" /> <!-- Full Plate Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2963" count="1" /> <!-- Full Plate Gauntlet Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="735" /> <!-- Adena -->
+		<production id="2003" count="1" /> <!-- Gauntlets of Ghost Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="753" /> <!-- Adena -->
+		<production id="1954" count="1" /> <!-- Karmian Stocking Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="753" /> <!-- Adena -->
+		<production id="2935" count="1" /> <!-- Reinforced Mithril Gaiter Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="763" /> <!-- Adena -->
+		<production id="4049" count="1" /> <!-- Adamantite Earring Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4079" count="1" /> <!-- Boots of Blessing Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4059" count="1" /> <!-- Boots of Silence Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4074" count="1" /> <!-- Chain Gloves of Silence Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4076" count="1" /> <!-- Gloves of Blessing Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4060" count="1" /> <!-- Guardian's Boot Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4075" count="1" /> <!-- Guardian's Glove Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4098" count="1" /> <!-- Sealed Avadon Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4073" count="1" /> <!-- Sealed Avadon Glove Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4097" count="1" /> <!-- Sealed Zubei's Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="769" /> <!-- Adena -->
+		<production id="4100" count="1" /> <!-- Sealed Zubei's Gauntlet Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="785" /> <!-- Adena -->
+		<production id="1942" count="1" /> <!-- Manticore Skin Shirt Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="785" /> <!-- Adena -->
+		<production id="1944" count="1" /> <!-- Mithril Tunic Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="785" /> <!-- Adena -->
+		<production id="2920" count="1" /> <!-- Mithril Tunic Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="793" /> <!-- Adena -->
+		<production id="1951" count="1" /> <!-- Plate Gaiter Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="800" /> <!-- Adena -->
+		<production id="8356" count="1" /> <!-- Corroded White Colored Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="800" /> <!-- Adena -->
+		<production id="1694" count="1" /> <!-- Treant Potion -->
+	</item>
+	<item>
+		<ingredient id="57" count="833" /> <!-- Adena -->
+		<production id="1740" count="1" /> <!-- Crafted Willow Branch -->
+	</item>
+	<item>
+		<ingredient id="57" count="833" /> <!-- Adena -->
+		<production id="1729" count="1" /> <!-- Pure White Cloth -->
+	</item>
+	<item>
+		<ingredient id="57" count="890" /> <!-- Adena -->
+		<production id="4077" count="1" /> <!-- Doom Shield Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="890" /> <!-- Adena -->
+		<production id="1693" count="1" /> <!-- Refined Bronze -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4072" count="1" /> <!-- Avadon Circlet Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4063" count="1" /> <!-- Boots of Grace Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4062" count="1" /> <!-- Elemental Boot Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4092" count="1" /> <!-- Elemental Glove Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4093" count="1" /> <!-- Gloves of Grace Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4058" count="1" /> <!-- Implosion Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4094" count="1" /> <!-- Implosion Gauntlet Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4061" count="1" /> <!-- Paradia Boot Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4095" count="1" /> <!-- Paradia Glove Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4090" count="1" /> <!-- Sealed Blue Wolf Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4096" count="1" /> <!-- Sealed Blue Wolf Glove Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4099" count="1" /> <!-- Sealed Doom Boot Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4091" count="1" /> <!-- Sealed Doom Glove Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="891" /> <!-- Adena -->
+		<production id="4102" count="1" /> <!-- Zubei's Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="900" /> <!-- Adena -->
+		<production id="1741" count="1" /> <!-- Bow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="900" /> <!-- Adena -->
+		<production id="8351" count="1" /> <!-- Corroded Black Fish Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="900" /> <!-- Adena -->
+		<production id="1882" count="1" /> <!-- Leather -->
+	</item>
+	<item>
+		<ingredient id="57" count="912" /> <!-- Adena -->
+		<production id="2957" count="1" /> <!-- Compound Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="912" /> <!-- Adena -->
+		<production id="1983" count="1" /> <!-- Shining Circlet Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="924" /> <!-- Adena -->
+		<production id="1918" count="1" /> <!-- Nassen's Earring Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="934" /> <!-- Adena -->
+		<production id="4053" count="1" /> <!-- Black Ore Ring Gemstone -->
+	</item>
+	<item>
+		<ingredient id="57" count="940" /> <!-- Adena -->
+		<production id="1980" count="1" /> <!-- Demon's Stocking Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="940" /> <!-- Adena -->
+		<production id="1916" count="1" /> <!-- Necklace of Mermaid Teardrop -->
+	</item>
+	<item>
+		<ingredient id="57" count="952" /> <!-- Adena -->
+		<production id="1734" count="1" /> <!-- Small Leather Fittings -->
+	</item>
+	<item>
+		<ingredient id="57" count="963" /> <!-- Adena -->
+		<production id="1719" count="1" /> <!-- Durable Leather Shirt Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="34992" count="1" /> <!-- Accessory Gem -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="34991" count="1" /> <!-- Armor Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="7688" count="1" /> <!-- Cat Ear Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="6914" count="1" /> <!-- Corroded Shiny Fish Gem -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="2130" count="1" /> <!-- Gemstone (D-grade) -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="1876" count="1" /> <!-- Mithril Ore -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="26311" count="1" /> <!-- Offering Test Ingredient 1 -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="26313" count="1" /> <!-- Offering Test Ingredient 3 -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="26314" count="1" /> <!-- Offering Test Ingredient 4 -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="26316" count="1" /> <!-- Offering Test Ingredient 6 -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="26317" count="1" /> <!-- Offering Test Ingredient 7 -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="7687" count="1" /> <!-- Rabbit Ear Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="7684" count="1" /> <!-- Raccoon Ear Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1000" /> <!-- Adena -->
+		<production id="1682" count="1" /> <!-- Tear of Holy Spirit -->
+	</item>
+	<item>
+		<ingredient id="57" count="1006" /> <!-- Adena -->
+		<production id="1941" count="1" /> <!-- Brigandine Temper -->
+	</item>
+	<item>
+		<ingredient id="57" count="1028" /> <!-- Adena -->
+		<production id="2010" count="1" /> <!-- Brandish Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1028" /> <!-- Adena -->
+		<production id="2008" count="1" /> <!-- Cedar Staff Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="1032" /> <!-- Adena -->
+		<production id="4051" count="1" /> <!-- Adamantite Necklace Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="1039" /> <!-- Adena -->
+		<production id="2922" count="1" /> <!-- Brigandine Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1047" /> <!-- Adena -->
+		<production id="1969" count="1" /> <!-- Dwarven Chain Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1059" /> <!-- Adena -->
+		<production id="4088" count="1" /> <!-- Blue Wolf Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1059" /> <!-- Adena -->
+		<production id="4089" count="1" /> <!-- Doom Helmet Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1082" /> <!-- Adena -->
+		<production id="1743" count="1" /> <!-- Dirk Blade Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="1096" /> <!-- Adena -->
+		<production id="1966" count="1" /> <!-- Plated Leather Armor Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="1118" /> <!-- Adena -->
+		<production id="4070" count="1" /> <!-- Stockings of Zubei Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1118" /> <!-- Adena -->
+		<production id="4067" count="1" /> <!-- Zubei's Leather Gaiter Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="1128" /> <!-- Adena -->
+		<production id="2009" count="1" /> <!-- Dirk Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1130" /> <!-- Adena -->
+		<production id="4052" count="1" /> <!-- Black Ore Earring Piece -->
+	</item>
+	<item>
+		<ingredient id="57" count="1136" /> <!-- Adena -->
+		<production id="1708" count="1" /> <!-- Smoky Quartz -->
+	</item>
+	<item>
+		<ingredient id="57" count="1148" /> <!-- Adena -->
+		<production id="1731" count="1" /> <!-- Steel Scale Gaiters -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1991" count="1" /> <!-- Cap of Mana Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1995" count="1" /> <!-- Elemental Hood Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1999" count="1" /> <!-- Flame Helm Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="2959" count="1" /> <!-- Full Plate Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="2001" count="1" /> <!-- Helm of Avadon Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="2002" count="1" /> <!-- Helmet of Pledge Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1998" count="1" /> <!-- Hood of Aid Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1996" count="1" /> <!-- Hood of Grace Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1993" count="1" /> <!-- Hood of Solar Eclipse Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1990" count="1" /> <!-- Mithril Helmet Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1992" count="1" /> <!-- Paradia Hood Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1997" count="1" /> <!-- Phoenix Hood Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1157" /> <!-- Adena -->
+		<production id="1994" count="1" /> <!-- Summoning Hood Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="1160" /> <!-- Adena -->
+		<production id="1985" count="1" /> <!-- Theca Leather Gaiter Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1169" /> <!-- Adena -->
+		<production id="1920" count="1" /> <!-- Necklace of Seal Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="1169" /> <!-- Adena -->
+		<production id="1917" count="1" /> <!-- Sage's Necklace Chain -->
+	</item>
+	<item>
+		<ingredient id="57" count="1190" /> <!-- Adena -->
+		<production id="1735" count="1" /> <!-- Small Sheet Iron -->
+	</item>
+	<item>
+		<ingredient id="57" count="1200" /> <!-- Adena -->
+		<production id="1879" count="1" /> <!-- Cokes -->
+	</item>
+	<item>
+		<ingredient id="57" count="1218" /> <!-- Adena -->
+		<production id="1975" count="1" /> <!-- Rind Leather Armor Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="1233" /> <!-- Adena -->
+		<production id="1950" count="1" /> <!-- Half Plate Temper -->
+	</item>
+	<item>
+		<ingredient id="57" count="1249" /> <!-- Adena -->
+		<production id="1953" count="1" /> <!-- Sage's Rag Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="1249" /> <!-- Adena -->
+		<production id="1952" count="1" /> <!-- Salamander Skin Mail Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="1250" /> <!-- Adena -->
+		<production id="1739" count="1" /> <!-- Broadsword Mold -->
+	</item>
+	<item>
+		<ingredient id="57" count="1250" /> <!-- Adena -->
+		<production id="6910" count="1" /> <!-- Corroded Premium Fish Oil -->
+	</item>
+	<item>
+		<ingredient id="57" count="1250" /> <!-- Adena -->
+		<production id="1962" count="1" /> <!-- Karmian Tunic Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1250" /> <!-- Adena -->
+		<production id="1961" count="1" /> <!-- Reinforced Mithril Shirt Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1328" /> <!-- Adena -->
+		<production id="1989" count="1" /> <!-- Divine Stocking Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1430" /> <!-- Adena -->
+		<production id="4065" count="1" /> <!-- Avadon Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1430" /> <!-- Adena -->
+		<production id="4057" count="1" /> <!-- Zubei's Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1485" /> <!-- Adena -->
+		<production id="1959" count="1" /> <!-- Chain Mail Shirt Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1493" /> <!-- Adena -->
+		<production id="1720" count="1" /> <!-- Blue-Black Bone Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="1500" /> <!-- Adena -->
+		<production id="1881" count="1" /> <!-- Coarse Bone Powder -->
+	</item>
+	<item>
+		<ingredient id="57" count="1500" /> <!-- Adena -->
+		<production id="1681" count="1" /> <!-- Elf Stone -->
+	</item>
+	<item>
+		<ingredient id="57" count="1520" /> <!-- Adena -->
+		<production id="1732" count="1" /> <!-- Leather Fittings -->
+	</item>
+	<item>
+		<ingredient id="57" count="1648" /> <!-- Adena -->
+		<production id="1979" count="1" /> <!-- Demon's Tunic Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1660" /> <!-- Adena -->
+		<production id="1968" count="1" /> <!-- Dwarven Chain Mail Shirt Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="1697" /> <!-- Adena -->
+		<production id="4069" count="1" /> <!-- Tunic of Zubei Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1697" /> <!-- Adena -->
+		<production id="4066" count="1" /> <!-- Zubei's Leather Shirt Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1700" /> <!-- Adena -->
+		<production id="1747" count="1" /> <!-- Shining Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1705" /> <!-- Adena -->
+		<production id="4086" count="1" /> <!-- Blue Wolf Stocking Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1705" /> <!-- Adena -->
+		<production id="4087" count="1" /> <!-- Stockings of Doom Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1754" /> <!-- Adena -->
+		<production id="2011" count="1" /> <!-- Short Spear Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="1790" /> <!-- Adena -->
+		<production id="1728" count="1" /> <!-- Steel Scale -->
+	</item>
+	<item>
+		<ingredient id="57" count="1792" /> <!-- Adena -->
+		<production id="1970" count="1" /> <!-- Robe of Seal Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="1797" /> <!-- Adena -->
+		<production id="1742" count="1" /> <!-- Red Cedar Branch -->
+	</item>
+	<item>
+		<ingredient id="57" count="1854" /> <!-- Adena -->
+		<production id="2013" count="1" /> <!-- Forest Bow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="1860" /> <!-- Adena -->
+		<production id="1699" count="1" /> <!-- Reinforced Steel -->
+	</item>
+	<item>
+		<ingredient id="57" count="1860" /> <!-- Adena -->
+		<production id="2019" count="1" /> <!-- Trident Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="1866" /> <!-- Adena -->
+		<production id="1984" count="1" /> <!-- Theca Leather Armor Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="1880" /> <!-- Adena -->
+		<production id="1745" count="1" /> <!-- Brandish Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1900" /> <!-- Adena -->
+		<production id="1733" count="1" /> <!-- Large Sheet Iron -->
+	</item>
+	<item>
+		<ingredient id="57" count="1920" /> <!-- Adena -->
+		<production id="2012" count="1" /> <!-- Sword of Reflection Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="1945" /> <!-- Adena -->
+		<production id="4080" count="1" /> <!-- Blue Wolf Gaiter Material -->
+	</item>
+	<item>
+		<ingredient id="57" count="2000" /> <!-- Adena -->
+		<production id="5549" count="1" /> <!-- Metallic Thread -->
+	</item>
+	<item>
+		<ingredient id="57" count="2000" /> <!-- Adena -->
+		<production id="40205" count="1" /> <!-- Requiem Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="2000" /> <!-- Adena -->
+		<production id="1880" count="1" /> <!-- Steel -->
+	</item>
+	<item>
+		<ingredient id="57" count="2000" /> <!-- Adena -->
+		<production id="1685" count="1" /> <!-- Wooden Frame -->
+	</item>
+	<item>
+		<ingredient id="57" count="2031" /> <!-- Adena -->
+		<production id="4054" count="1" /> <!-- Black Ore Necklace Beads -->
+	</item>
+	<item>
+		<ingredient id="57" count="2082" /> <!-- Adena -->
+		<production id="1988" count="1" /> <!-- Divine Tunic Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="2100" /> <!-- Adena -->
+		<production id="1698" count="1" /> <!-- Refined Mithril -->
+	</item>
+	<item>
+		<ingredient id="57" count="2209" /> <!-- Adena -->
+		<production id="4068" count="1" /> <!-- Avadon Leather Armor Lining -->
+	</item>
+	<item>
+		<ingredient id="57" count="2209" /> <!-- Adena -->
+		<production id="4071" count="1" /> <!-- Avadon Robe Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="2210" /> <!-- Adena -->
+		<production id="4064" count="1" /> <!-- Avadon Breastplate Part -->
+	</item>
+	<item>
+		<ingredient id="57" count="2210" /> <!-- Adena -->
+		<production id="4056" count="1" /> <!-- Zubei's Breastplate Part -->
+	</item>
+	<item>
+		<ingredient id="57" count="2267" /> <!-- Adena -->
+		<production id="1750" count="1" /> <!-- Dark Forest Leaf -->
+	</item>
+	<item>
+		<ingredient id="57" count="2285" /> <!-- Adena -->
+		<production id="2020" count="1" /> <!-- Temptation of Abyss Piece -->
+	</item>
+	<item>
+		<ingredient id="57" count="2302" /> <!-- Adena -->
+		<production id="4084" count="1" /> <!-- Blue Wolf Tunic Fabric -->
+	</item>
+	<item>
+		<ingredient id="57" count="2302" /> <!-- Adena -->
+		<production id="4085" count="1" /> <!-- Tunic of Doom Pattern -->
+	</item>
+	<item>
+		<ingredient id="57" count="2383" /> <!-- Adena -->
+		<production id="5531" count="1" /> <!-- Heavy Sword Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="2383" /> <!-- Adena -->
+		<production id="8327" count="1" /> <!-- Steel Sword Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="2400" /> <!-- Adena -->
+		<production id="1885" count="1" /> <!-- High-grade Suede -->
+	</item>
+	<item>
+		<ingredient id="57" count="2408" /> <!-- Adena -->
+		<production id="8332" count="1" /> <!-- Priest Sword Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="2500" /> <!-- Adena -->
+		<production id="34990" count="1" /> <!-- Weapon Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="2568" /> <!-- Adena -->
+		<production id="2022" count="1" /> <!-- Mace of Judgment Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="2622" /> <!-- Adena -->
+		<production id="1987" count="1" /> <!-- Drake Leather Armor Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="2704" /> <!-- Adena -->
+		<production id="1977" count="1" /> <!-- Compound Armor Temper -->
+	</item>
+	<item>
+		<ingredient id="57" count="2739" /> <!-- Adena -->
+		<production id="4078" count="1" /> <!-- Blue Wolf Breastplate Part -->
+	</item>
+	<item>
+		<ingredient id="57" count="2808" /> <!-- Adena -->
+		<production id="2024" count="1" /> <!-- Elven Bow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="2888" /> <!-- Adena -->
+		<production id="2025" count="1" /> <!-- Dwarven Trident Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3000" /> <!-- Adena -->
+		<production id="2131" count="1" /> <!-- Gemstone (C-grade) -->
+	</item>
+	<item>
+		<ingredient id="57" count="3000" /> <!-- Adena -->
+		<production id="1874" count="1" /> <!-- Oriharukon Ore -->
+	</item>
+	<item>
+		<ingredient id="57" count="3000" /> <!-- Adena -->
+		<production id="1746" count="1" /> <!-- Short Spear Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3000" /> <!-- Adena -->
+		<production id="1875" count="1" /> <!-- Stone of Purity -->
+	</item>
+	<item>
+		<ingredient id="57" count="3000" /> <!-- Adena -->
+		<production id="1889" count="1" /> <!-- Synthetic Braid -->
+	</item>
+	<item>
+		<ingredient id="57" count="3010" /> <!-- Adena -->
+		<production id="2018" count="1" /> <!-- Assassin Knife Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3010" /> <!-- Adena -->
+		<production id="2017" count="1" /> <!-- Saber Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3050" /> <!-- Adena -->
+		<production id="1752" count="1" /> <!-- Piece of Sword Breaker -->
+	</item>
+	<item>
+		<ingredient id="57" count="3054" /> <!-- Adena -->
+		<production id="2027" count="1" /> <!-- Spiked Club Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="3080" /> <!-- Adena -->
+		<production id="1697" count="1" /> <!-- Magic Powder -->
+	</item>
+	<item>
+		<ingredient id="57" count="3168" /> <!-- Adena -->
+		<production id="2021" count="1" /> <!-- Spinebone Sword Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3215" /> <!-- Adena -->
+		<production id="1710" count="1" /> <!-- Tiger's Eye Crystal -->
+	</item>
+	<item>
+		<ingredient id="57" count="3228" /> <!-- Adena -->
+		<production id="2023" count="1" /> <!-- Conjuror's Staff Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="3280" /> <!-- Adena -->
+		<production id="2015" count="1" /> <!-- Sword Breaker Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3324" /> <!-- Adena -->
+		<production id="2026" count="1" /> <!-- Two-handed Sword Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3330" /> <!-- Adena -->
+		<production id="1730" count="1" /> <!-- Purifying Potion -->
+	</item>
+	<item>
+		<ingredient id="57" count="3354" /> <!-- Adena -->
+		<production id="2029" count="1" /> <!-- Gastraphetes Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="3367" /> <!-- Adena -->
+		<production id="2028" count="1" /> <!-- Shilen Knife Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3414" /> <!-- Adena -->
+		<production id="2016" count="1" /> <!-- Compound Bow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="3420" /> <!-- Adena -->
+		<production id="2030" count="1" /> <!-- Tome of Blood Page -->
+	</item>
+	<item>
+		<ingredient id="57" count="3458" /> <!-- Adena -->
+		<production id="2040" count="1" /> <!-- Reinforced Longbow Shaft -->
+	</item>
+	<item>
+		<ingredient id="57" count="3480" /> <!-- Adena -->
+		<production id="2014" count="1" /> <!-- Iron Hammer Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="3540" /> <!-- Adena -->
+		<production id="4082" count="1" /> <!-- Blue Wolf Leather Armor Texture -->
+	</item>
+	<item>
+		<ingredient id="57" count="3540" /> <!-- Adena -->
+		<production id="4083" count="1" /> <!-- Leather Armor of Doom Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="3586" /> <!-- Adena -->
+		<production id="2041" count="1" /> <!-- War Pick Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="3586" /> <!-- Adena -->
+		<production id="2033" count="1" /> <!-- Winged Spear Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3720" /> <!-- Adena -->
+		<production id="1703" count="1" /> <!-- Top-grade Steel -->
+	</item>
+	<item>
+		<ingredient id="57" count="3786" /> <!-- Adena -->
+		<production id="2044" count="1" /> <!-- Cursed Maingauche Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3786" /> <!-- Adena -->
+		<production id="1986" count="1" /> <!-- Full Plate Armor Temper -->
+	</item>
+	<item>
+		<ingredient id="57" count="3786" /> <!-- Adena -->
+		<production id="2038" count="1" /> <!-- Maingauche Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3786" /> <!-- Adena -->
+		<production id="2034" count="1" /> <!-- Sword of Revolution Blade -->
+	</item>
+	<item>
+		<ingredient id="57" count="3843" /> <!-- Adena -->
+		<production id="5762" count="1" /> <!-- Sealed Avadon Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="3843" /> <!-- Adena -->
+		<production id="5758" count="1" /> <!-- Sealed Avadon Glove Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="3843" /> <!-- Adena -->
+		<production id="5761" count="1" /> <!-- Sealed Zubei's Boot Design -->
+	</item>
+	<item>
+		<ingredient id="57" count="3843" /> <!-- Adena -->
+		<production id="5757" count="1" /> <!-- Sealed Zubei's Gauntlet Fragment -->
+	</item>
+	<item>
+		<ingredient id="57" count="3952" /> <!-- Adena -->
+		<production id="2039" count="1" /> <!-- Bich'Hwa Edge -->
+	</item>
+	<item>
+		<ingredient id="57" count="3952" /> <!-- Adena -->
+		<production id="2037" count="1" /> <!-- Heavy Bone Club Head -->
+	</item>
+	<item>
+		<ingredient id="57" count="3952" /> <!-- Adena -->
+		<production id="8343" count="1" /> <!-- Lesser Giant's Hammer Piece -->
+	</item>
+</list>
