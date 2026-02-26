@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="3" />
+		<production id="6535" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5016" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5017" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5018" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5042" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5043" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5650" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5651" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5652" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5676" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="5677" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="6536" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="7020" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="7034" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8237" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8238" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8239" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8255" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8256" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="8257" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10171" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10172" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10173" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10197" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10198" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="5" />
+		<production id="10199" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="7" />
+		<production id="6537" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5019" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5024" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5044" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5653" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5658" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="5678" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="8240" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="8258" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="10174" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="10" />
+		<production id="10200" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5020" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5022" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5025" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5027" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5028" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5033" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5654" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5656" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5659" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5661" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5662" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="5667" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="7026" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="7040" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="7044" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="7051" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8241" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8243" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8244" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8259" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8261" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="8262" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="10201" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="20" />
+		<production id="10202" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5029" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5034" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5046" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5221" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5663" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5668" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5680" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="5696" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="6538" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="7019" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="7033" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="8245" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="25" />
+		<production id="8263" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="5021" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="5026" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="5655" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="5660" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="8242" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="30" />
+		<production id="8260" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5039" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5050" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5056" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5057" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5226" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5673" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5684" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5690" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5691" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="5701" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="6539" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7021" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7022" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7035" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7036" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7045" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7046" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7052" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="7053" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="8250" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="8252" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="8268" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="40" />
+		<production id="8270" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5023" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5030" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5031" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5032" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5035" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5036" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5037" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5038" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5040" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5047" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5048" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5049" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5051" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5052" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5053" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5054" count="1" />
+	</item>
+	<item>
+		<ingredient id="57" count="50" />
+		<production id="5055" count="1" />
+	</item>
+</list>
