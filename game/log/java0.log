@@ -123,3 +123,150 @@
 2026.02.26 15:00:16,195	INFO	3	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 16 custom NPCs.
 2026.02.26 15:00:16,196	INFO	3	org.l2jmobius.gameserver.data.xml.FakePlayerData	FakePlayerData: Disabled.
 2026.02.26 15:00:16,197	INFO	3	org.l2jmobius.gameserver.instancemanager.FakePlayerChatManager	FakePlayerChatManager: Disabled.
+2026.02.26 15:00:16,509	INFO	3	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Loaded 27268 spawns
+2026.02.26 15:00:18,207	INFO	3	org.l2jmobius.gameserver.instancemanager.WalkingManager	WalkingManager: Loaded 13 walking routes.
+2026.02.26 15:00:18,214	INFO	3	org.l2jmobius.gameserver.data.xml.StaticObjectData	StaticObjectData: Loaded 86 static object templates.
+2026.02.26 15:00:18,215	INFO	3	org.l2jmobius.gameserver.instancemanager.ItemAuctionManager	ItemAuctionManager: Disabled.
+2026.02.26 15:00:18,238	INFO	3	org.l2jmobius.gameserver.instancemanager.CastleManager	CastleManager: Loaded 9 castles.
+2026.02.26 15:00:18,242	INFO	3	org.l2jmobius.gameserver.data.SchemeBufferTable	SchemeBufferTable: Loaded 0 players schemes and 60 available buffs.
+2026.02.26 15:00:18,245	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Gigantic Chaos Golem(25512) status is 0
+2026.02.26 15:00:18,245	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29001) status is 0
+2026.02.26 15:00:18,245	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0
+2026.02.26 15:00:18,245	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29014) status is 1
+2026.02.26 15:00:18,249	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Next spawn date of Orfen is Fri Feb 27 09:33:49 EET 2026
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Zaken(29022) status is 0
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Valakas(29028) status is 0
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 8 instances.
+2026.02.26 15:00:18,250	INFO	3	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Instance ]
+2026.02.26 15:00:18,254	INFO	3	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 267 instance names.
+2026.02.26 15:00:18,274	INFO	3	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 6 instance templates.
+2026.02.26 15:00:18,274	INFO	3	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded instance reenter times for 0 players.
+2026.02.26 15:00:18,274	INFO	3	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
+2026.02.26 15:00:18,278	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading....
+2026.02.26 15:00:18,278	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2026.02.26 15:00:18,278	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 6 days, 20 hours and 59 mins until period ends.
+2026.02.26 15:00:18,278	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 2 days, 1 hours and 44 mins.
+2026.02.26 15:00:18,278	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2026.02.26 15:00:18,280	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 3 hours and 0 mins.
+2026.02.26 15:00:18,280	INFO	3	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started: Thu Feb 26 18:00:18 EET 2026
+2026.02.26 15:00:18,282	INFO	3	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 Heroes.
+2026.02.26 15:00:18,282	INFO	3	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 all time Heroes.
+2026.02.26 15:00:18,282	INFO	3	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Cache ]
+2026.02.26 15:00:18,283	INFO	3	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache.
+2026.02.26 15:00:18,283	INFO	3	org.l2jmobius.gameserver.data.sql.CrestTable	CrestTable: Loaded 0 Crests.
+2026.02.26 15:00:18,370	INFO	3	org.l2jmobius.gameserver.data.xml.TeleporterData	TeleporterData: Loaded 145 npc teleporters.
+2026.02.26 15:00:18,631	INFO	3	org.l2jmobius.gameserver.data.xml.TransformData	TransformData: Loaded 174 transform templates.
+2026.02.26 15:00:18,634	INFO	3	org.l2jmobius.gameserver.data.BotReportTable	BotReportTable: Loaded 0 bot reports
+2026.02.26 15:00:18,634	INFO	3	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2026.02.26 15:00:18,636	INFO	3	org.l2jmobius.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
+2026.02.26 15:00:18,640	INFO	3	org.l2jmobius.gameserver.data.xml.ShuttleData	ShuttleData: Loaded 1 shuttles.
+2026.02.26 15:00:18,641	INFO	3	org.l2jmobius.gameserver.GameServer	GameServer: Loading server scripts:
+2026.02.26 15:00:18,711	INFO	3	handlers.MasterHandler	Loading Handlers...
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	AdminCommandHandler: Loaded 450 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	BypassHandler: Loaded 31 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	CommunityBoardHandler: Loaded 30 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	ItemHandler: Loaded 30 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	UserCommandHandler: Loaded 16 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	VoicedCommandHandler: Loaded 13 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	TargetHandler: Loaded 21 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	AffectObjectHandler: Loaded 11 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	AffectScopeHandler: Loaded 19 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	PlayerActionHandler: Loaded 24 handlers.
+2026.02.26 15:00:18,781	INFO	3	handlers.MasterHandler	Handlers Loaded...
+2026.02.26 15:00:18,781	INFO	3	org.l2jmobius.gameserver.scripting.ScriptEngineManager	Loading scripts from jar: C:\dist\libs\Scripts.jar
+2026.02.26 15:00:18,855	INFO	3	ai.areas.ImperialTomb.FourSepulchers.FourSepulchers	[Four Sepulchers] Loaded 762 spawn zones data.
+2026.02.26 15:00:18,890	INFO	3	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Zaken(29022) status to 0.
+2026.02.26 15:00:18,901	INFO	3	ai.others.ClassMaster.ClassMaster	ClassMaster: Loaded 0 class change options.
+2026.02.26 15:00:18,936	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Eve the Fortune Teller has passed... Ignored 
+2026.02.26 15:00:18,938	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Happy Hours has passed... Ignored 
+2026.02.26 15:00:18,940	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Merry Squashmas Event has passed... Ignored 
+2026.02.26 15:00:18,942	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Rudolphs Blessing has passed... Ignored 
+2026.02.26 15:00:18,945	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Squash Event has passed... Ignored 
+2026.02.26 15:00:18,946	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event The Power Of Love has passed... Ignored 
+2026.02.26 15:00:18,948	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	Event Watermelon Ninja has passed... Ignored 
+2026.02.26 15:00:18,948	INFO	3	handlers.DailyMissionMasterHandler	DailyMissionMasterHandler: Loaded 9 handlers.
+2026.02.26 15:00:18,948	INFO	3	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 365 effect handlers.
+2026.02.26 15:00:18,948	INFO	3	handlers.MasterHandler	Loading Handlers...
+2026.02.26 15:00:18,950	INFO	3	org.l2jmobius.gameserver.instancemanager.QuestManager	Replaced script AdminZones with a new version!
+2026.02.26 15:00:18,963	INFO	3	org.l2jmobius.gameserver.instancemanager.QuestManager	Replaced script MercTicket with a new version!
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	AdminCommandHandler: Loaded 450 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	BypassHandler: Loaded 33 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	CommunityBoardHandler: Loaded 30 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	ItemHandler: Loaded 30 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	UserCommandHandler: Loaded 16 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	VoicedCommandHandler: Loaded 13 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	TargetHandler: Loaded 21 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	AffectObjectHandler: Loaded 11 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	AffectScopeHandler: Loaded 19 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	PlayerActionHandler: Loaded 24 handlers.
+2026.02.26 15:00:18,964	INFO	3	handlers.MasterHandler	Handlers Loaded...
+2026.02.26 15:00:19,039	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	[EnhanceYourWeapon] Loaded 54 Soul Crystal data.
+2026.02.26 15:00:19,040	INFO	3	org.l2jmobius.gameserver.model.quest.Quest	[EnhanceYourWeapon] Loaded 124 npc Leveling info data.
+2026.02.26 15:00:19,355	INFO	3	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Initializing spawns...
+2026.02.26 15:00:19,522	INFO	3	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Loaded 225 instances.
+2026.02.26 15:00:19,523	INFO	3	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Scheduled 0 instances.
+2026.02.26 15:00:21,045	INFO	3	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: All spawns has been initialized!
+2026.02.26 15:00:21,045	INFO	3	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Siege ]
+2026.02.26 15:00:21,050	INFO	3	org.l2jmobius.gameserver.data.xml.SiegeScheduleData	SiegeScheduleData: Loaded 9 siege schedulers.
+2026.02.26 15:00:21,050	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Gludio: Sun Mar 01 16:00:00 EET 2026
+2026.02.26 15:00:21,050	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Dion: Sun Mar 01 20:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Giran: Sun Mar 01 16:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Oren: Sun Mar 01 20:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Aden: Sun Mar 01 16:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Innadril: Sun Mar 01 20:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Goddard: Sun Mar 01 16:00:00 EET 2026
+2026.02.26 15:00:21,051	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Rune: Sun Mar 01 20:00:00 EET 2026
+2026.02.26 15:00:21,052	INFO	3	org.l2jmobius.gameserver.model.siege.Siege	Siege of Schuttgart: Sun Mar 01 16:00:00 EET 2026
+2026.02.26 15:00:21,054	INFO	3	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Manor system is deactivated.
+2026.02.26 15:00:21,056	INFO	3	org.l2jmobius.gameserver.instancemanager.SiegeGuardManager	SiegeGuardManager: Loaded 0 siege guards tickets.
+2026.02.26 15:00:21,056	INFO	3	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 214 quests.
+2026.02.26 15:00:21,056	INFO	3	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 116 scripts.
+2026.02.26 15:00:21,058	INFO	3	org.l2jmobius.gameserver.instancemanager.games.MonsterRace	MonsterRace: loaded 126 records, currently on race #127
+2026.02.26 15:00:21,062	INFO	3	org.l2jmobius.gameserver.taskmanager.TaskManager	TaskManager: Loaded 5 Tasks.
+2026.02.26 15:00:21,063	INFO	3	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	DailyTaskManager: Next schedule at 27/02 06:30.
+2026.02.26 15:00:21,064	INFO	3	org.l2jmobius.gameserver.instancemanager.MailManager	MailManager: Loaded 0 messages.
+2026.02.26 15:00:21,065	INFO	3	org.l2jmobius.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
+2026.02.26 15:00:21,065	INFO	3	org.l2jmobius.gameserver.GameServer	IdManager: Free ObjectID's remaining: 1879008050
+2026.02.26 15:00:21,066	INFO	3	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loading offline traders...
+2026.02.26 15:00:21,066	INFO	3	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loaded 0 offline traders.
+2026.02.26 15:00:21,290	INFO	3	org.l2jmobius.gameserver.GameServer	GameServer: Started, using 679 of 4096 MB total memory.
+2026.02.26 15:00:21,290	INFO	3	org.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
+2026.02.26 15:00:21,290	INFO	3	org.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 13 seconds.
+2026.02.26 15:00:21,305	INFO	163	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Connecting to login on 127.0.0.1:9014
+2026.02.26 15:00:21,341	INFO	163	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Registered on login as Server 1: Bartz
+2026.02.26 15:00:49,416	WARNING	93	org.l2jmobius.gameserver.model.actor.Creature	Master access level set for character 44444444! Just a warning to be careful ;)
+2026.02.26 15:00:55,417	INFO	107	custom.listeners.ListenerTest	ListenerTest: Player: Player:44444444[268475342] has logged in!
+2026.02.26 15:02:29,479	WARNING	32	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2026.02.26 15:02:30,480	WARNING	168	org.l2jmobius.gameserver.Shutdown	GM shutdown countdown is over. shutting down NOW!
+2026.02.26 15:02:30,480	INFO	168	org.l2jmobius.gameserver.Shutdown	All players disconnected and saved(0ms).
+2026.02.26 15:02:30,480	INFO	168	org.l2jmobius.gameserver.Shutdown	Game Time Task Manager: Thread interruped(0ms).
+2026.02.26 15:02:30,480	INFO	168	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Shutting down.
+2026.02.26 15:02:30,483	INFO	168	org.l2jmobius.gameserver.Shutdown	Thread Pool Manager: Manager has been shut down(3ms).
+2026.02.26 15:02:30,483	INFO	168	org.l2jmobius.gameserver.Shutdown	Login Server Thread: Thread interruped(0ms).
+2026.02.26 15:02:30,483	INFO	168	org.l2jmobius.gameserver.Shutdown	GM shutdown received. Shutting down NOW!
+2026.02.26 15:02:30,509	INFO	168	org.l2jmobius.gameserver.Shutdown	RaidBossSpawnManager: All raidboss info saved(25ms).
+2026.02.26 15:02:30,518	INFO	168	org.l2jmobius.gameserver.Shutdown	GrandBossManager: All Grand Boss info saved(10ms).
+2026.02.26 15:02:30,518	INFO	168	org.l2jmobius.gameserver.Shutdown	Item Auction Manager: All tasks stopped(0ms).
+2026.02.26 15:02:30,518	INFO	168	org.l2jmobius.gameserver.Shutdown	Olympiad System: Data saved(0ms).
+2026.02.26 15:02:30,519	INFO	168	org.l2jmobius.gameserver.Shutdown	Hero System: Data saved(1ms).
+2026.02.26 15:02:30,519	INFO	168	org.l2jmobius.gameserver.Shutdown	Clan System: Data saved(0ms).
+2026.02.26 15:02:30,519	INFO	168	org.l2jmobius.gameserver.Shutdown	Cursed Weapons Manager: Data saved(0ms).
+2026.02.26 15:02:30,519	INFO	168	org.l2jmobius.gameserver.Shutdown	Castle Manor Manager: Data saved(0ms).
+2026.02.26 15:02:30,520	INFO	168	org.l2jmobius.gameserver.Shutdown	Quest Manager: Data saved(0ms).
+2026.02.26 15:02:30,549	INFO	168	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 5 variables.
+2026.02.26 15:02:30,549	INFO	168	org.l2jmobius.gameserver.Shutdown	Global Variables Manager: Variables saved(30ms).
+2026.02.26 15:02:30,568	INFO	168	org.l2jmobius.gameserver.Shutdown	SchemeBufferTable data has been saved.
+2026.02.26 15:02:30,568	INFO	168	org.l2jmobius.gameserver.Shutdown	Bot Report Table: Successfully saved reports to database!
+2026.02.26 15:02:31,151	WARNING	32	org.l2jmobius.gameserver.Shutdown	Server scheduled restart issued shutdown command. Shutdown in 1 seconds!
+2026.02.26 15:02:35,579	INFO	168	org.l2jmobius.gameserver.Shutdown	Database Factory: Database connection has been shut down(10ms).
+2026.02.26 15:02:35,580	INFO	168	org.l2jmobius.gameserver.Shutdown	The server has been successfully shut down in 5seconds.
